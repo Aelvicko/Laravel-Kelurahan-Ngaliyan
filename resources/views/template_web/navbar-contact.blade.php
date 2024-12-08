@@ -21,12 +21,12 @@
 <body>
     <!------------------- NAVBAR ------------------------>
 <nav class="navbar navbar-expand-lg navbar-dark sticky-top">
-    <div style="margin-top: -20px; margin-bottom:-20px" class="container">
+    <div style="margin-top: -8px; margin-bottom: -8px" class="container">
         <a class="navbar-brand" href="/">
             @if(isset($profile) && $profile->logo)
                 <img src="/images/logo/{{ $profile->logo }}" alt="logo" width="100" height="35" />
             @else
-                <img src="/images/logo/logokelurahan.png" alt="default logo" width="100" height="35" /> <!-- Ganti dengan ikon default -->
+                <img src="/images/logo/logokelurahan.png" alt="default logo" width="70" height="60" /> <!-- Ganti dengan ikon default -->
             @endif
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">

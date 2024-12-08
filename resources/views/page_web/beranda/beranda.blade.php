@@ -32,13 +32,12 @@
 
 		<!------------------- JUMBOTRON DESC PROFILE ------------------------>
 		<div class="container my-5 py-md-5">
-			<div class="row mt-md-5 d-flex justify-content-center">
+			<div class="row mt-md-0 d-flex justify-content-center">
 				<div class="col-lg-7 text-center">
-					<h1 class="headline-slogan">Kel. Tanjung Mas, Semarang</h1>    <!-- target -->
+					<h1 class="headline-slogan">Kel. Ngaliyan, Semarang</h1>    <!-- target -->
 					<p class="headline-paragraph text-black-50 pt-2 px-2">
-						Selamat Datang di Website Resmi Kelurahan Tanjung Mas Kecamatan Semarang Utara
-						Jl. Ronggowarsito 42 a Semarang. <br><br>
-						Platform Informasi Penting dan Pelayanan Masyarakat Setempat!
+						Selamat Datang di Website Portal Kelurahan Ngaliyan <br>
+						Jl. Raya Ngaliyan, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 
 					</p>     <!-- target -->
 					<div class="d-flex justify-content-center">
 						<a href="#r-more" class="read-more text-decoration-none text-black border w-auto py-2 px-5">Read More</a>

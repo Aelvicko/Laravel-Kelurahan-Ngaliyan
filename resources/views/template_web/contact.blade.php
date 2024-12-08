@@ -43,7 +43,7 @@
                <span class="u-file-icon u-icon u-text-palette-3-base u-icon-1">
                  <img src="images/contact/lokasi.png" alt="lokasi udinus">
                </span>
-               <h5 class="u-text u-text-1">Kantor Kelurahan Tanjungmas</h5>
+               <h5 class="u-text u-text-1">Kantor Ngaliyan</h5>
                <p class="u-text u-text-2"> Jl. Ronggowarsito No.42, Tj. Mas, Semarang Utara, 
                 Kota Semarang </p>
              </div>
