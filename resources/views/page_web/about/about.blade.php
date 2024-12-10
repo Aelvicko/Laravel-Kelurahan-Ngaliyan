@@ -20,7 +20,7 @@
 					<img src="images/beranda/image2.png" class="d-block w-100" alt="..." />  <!-- target -->
 				</div>
 				<div class="carousel-item">
-					<img src="images/beranda/image-image1.png" class="d-block w-100" alt="..." />  <!-- target -->
+					<img src="images/beranda/image1.png" class="d-block w-100" alt="..." />  <!-- target -->
 				</div>
 				<div class="carousel-item">
 					<img src="images/beranda/image-pelanggan.png" class="d-block w-100" alt="..." />   <!-- target -->

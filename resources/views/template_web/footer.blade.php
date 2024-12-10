@@ -408,34 +408,8 @@ color: #FFFFFF;
 
 
 <!-- PERCOBAAN FOOTER SIADIN-->
-<div style="background-color: #3C3F48;border-top: 2px solid #1D1D1F;border-bottom: 5px solid #1D1D1F;">
-    <div class="container" style="color: #fff;font-size: 1.2em;padding-top: 10px; padding-bottom:10px">
-        <center>
-            <p>
-                <!-- <a href="http://dinus.ac.id/gallery2/" class="ft1" target="_blank">Gallery</a> -->
-                <a href="/about" class="ft1" target="_blank">Profil</a>
-                <a href="/berita" class="ft1" target="_blank">Berita</a>
-                <a href="http://127.0.0.1:8000/kelembagaan_karang_taruna" class="ft1" target="_blank">Karang Taruna</a>
-                <a href="http://127.0.0.1:8000/pemberdayaan_kamtibmas" class="ft1" target="_blank">KAMTIBMAS</a>
-                <a href="https://e-pbb.semarangkota.go.id/" class="ft1" target="_blank">PBB</a>
+<!-- DISINI HARUSNYA ADA FOOTER karangtaruna, kamtibnas,pbb dan lain lain tpi sudah dihapus vicko-->
 
-                <a href="https://semarangkota.go.id/" class="ft1" target="_blank">Semarang</a>
-                <a href="https://kipjateng.jatengprov.go.id/" class="ft1" target="_blank">KIP Jateng</a>
-                <a href="https://www.kpk.go.id/id" class="ft1" target="_blank">KPK</a>
-                <a href="https://polri.go.id/" class="ft1" target="_blank">POLRI</a>
-                <a href="https://www.kpu.go.id/" class="ft1" target="_blank">KPU</a>
-                <a href="https://www.kpu.go.id/" class="ft1" target="_blank">Tribun Jateng</a>
-                <a href="https://www.kominfo.go.id/" class="ft1" target="_blank">KOMINFO</a>
-                <a href="https://bkpp.semarangkota.go.id/" target="_blank" class="ft1">BKPP</a>
-                <a href="https://ppid.semarangkota.go.id/informasi-penerimaan-pegawai-kota-semarang/" target="_blank" class="ft1">PPID</a>
-                <a href="https://silaga.semarangkota.go.id/" target="_blank" class="ft1">Silaga</a>
-                <a href="https://pantausemar.semarangkota.go.id/?cctv_category_id=3" target="_blank" class="ft1">Tilik Semar</a>
-                <a href="https://distaru.semarangkota.go.id/semarang/index.php?webgis=tataruang" target="_blank" class="ft1" style="border-right:none;">One Map SMG</a>
-
-            </p>
-        </center>
-    </div>
-</div>
 
 <div style="background-color: #2F2F2F; color:#fff;padding-top:4px;padding-bottom:20px;">
     <div class="container-fluid">
@@ -445,19 +419,19 @@ color: #FFFFFF;
             <div class="col-md-1" style="text-align: center;padding:0px;">
                 <img src="images/logo/logokelurahan.png" width="100%" style="padding-top:30px;max-width: 90px;max-height: 110px;">
             </div>
-            <div class="col-md-5" style="padding-left: 130px; margin-top: -115px;">
-                <h4 style="padding-top: 5px;margin-bottom: 0px; color:#fa4e3af1; shadow: ">Kelurahan Tanjung Mas</h4>
+            <div class="col-md-5" style="padding-left: 130px; margin-top: -60px;">
+                <h4 style="padding-top: 5px;margin-bottom: 0px; color:#fa4e3af1; shadow: ">Kelurahan Ngaliyan</h4>
                 <p style="font-size:0.80em;margin-top: 0px;">
-                    Main Location &nbsp;: Semarang Utara Street || <i class="fa fa-phone" style="color: #FFCC00"></i> (024) 3560341<br>
-                    Other Location : Jl. Ronggowarsito 42.a Semarang Street || <i class="fa fa-phone" style="color: #FFCC00"></i> (024) 3560341<br>
+                    Main Location &nbsp;: Semarang Barat Street || <i class="fa fa-phone" style="color: #FFCC00"></i> (024) 3560341<br>
+                    Other Location : Jl. Raya Ngaliyan Semarang Street || <i class="fa fa-phone" style="color: #FFCC00"></i> (024) 3560341<br>
                     <i class="fa fa-fax" style="color: #FFCC00"></i> Fax. (024) 3560341 || Semarang 50174 Indonesia<br>
-                    <i class="fa fa-envelope" style="color: #FFCC00"></i><a href="https://dinus.ac.id/hospitality" style="color: #fff;"> Contact us</a>
+                    <i class="fa fa-envelope" style="color: #FFCC00"></i><a href="https://usm.ac.id/id/" style="color: #fff;"> Contact us</a>
 
                 </p>
             </div>
 
-            <div class="col-md-12" style="text-align: center; padding-left: 460px; margin-top: -130px; margin-bottom:-10px">
-                <h4 style="color: #fff; font-size:23px; margin-bottom:2px;">Contact Us</h4>
+            <div class="col-md-12" style="text-align: center; padding-left: 1200px; margin-top: -120px; margin-bottom:-10px">
+                <h4 style="color: #fff; font-size:23px; margin-bottom:2px ">Contact Us</h4>
 
 
                 <ul class="social-network social-circle">
@@ -472,25 +446,6 @@ color: #FFFFFF;
 
                 </div>
             </div>
-            <div class="col-md-1" style="text-align: center;padding-top: 45px; padding-left: 990px; margin-top: -120px;">
-                <!-- Histats.com  START  (standard)-->
-                <script type="text/javascript">
-                    document.write(unescape("%3Cscript src=%27https://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));
-                </script>
-                <a href="https://www.histats.com" target="_blank" title="free web stats">
-                    <script type="text/javascript">
-                        try {
-                            Histats.start(1, 3257677, 4, 322, 112, 62, "00011111");
-                            Histats.track_hits();
-                        } catch (err) {};
-                    </script>
-                </a>
-                <noscript><a href="https://www.histats.com" target="_blank"><img src="https://sstatic1.histats.com/0.gif?3257677&101" alt="free web stats" border="0"></a></noscript>
-                <!-- Histats.com  END  -->
-            </div>
-
-
-
         </div>
 
 
@@ -505,10 +460,10 @@ color: #FFFFFF;
 <div id="copyright">
 
     <!-- start: Container -->
-    <div class="container" style="padding-top:2%; margin-bottom: -1%; margin-top:-1%; font-size:0.80em;">
+    <div class="container" style="padding-top:1%; margin-bottom: -1%; margin-top:-1%; font-size:0.80em;">
     
         <center><p>
-            KELURAHAN TANJUNG MAS KOTA SEMARANG || Copyright &copy; <a href="http://bootstrapmaster.com" alt="Bootstrap Themes"> 2024</a>  DEVELOPER All right Reserved
+            KELURAHAN NGALIYAN KOTA SEMARANG || Copyright &copy; <a href="http://bootstrapmaster.com" alt="Bootstrap Themes"> 2024</a>  DEVELOPER All right Reserved
         </p></center>
 
     </div>

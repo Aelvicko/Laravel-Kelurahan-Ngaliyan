@@ -1,11 +1,6 @@
 @extends('template_web.layout')
 
-
 @section('content')
-
-	<marquee class="marquee" behavior="scroll" direction="left">
-		SELAMAT DATANG DI WEBSITE KELURAHAN NGALIYAN KOTA SEMARANG.
-	</marquee>
     <!------------------- CAROUSEL ------------------------>
 		<div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
 			<div class="carousel-indicators">
@@ -57,17 +52,14 @@
 		<div class="container mb-5">
 			<div class="row d-flex justify-content-between align-items-center">
 				<div class="col-lg-6">
-					<h2 class="title-section mx-3">Sambutan Lurah Ngaliyan</h2>
-					<p class="headline-paragraph text-black-50 mx-3" style="text-align: justify">
-						Assalamu'alaikum Warahmatullahi Wabarakaatuh, <br>
-						Pertama-tama kami panjatkan puji syukur atas limpahan rahmat-Nya, sehingga situs web <a href="">www.ngaliyan.semarangkota.go.id</a> ini dapat kami selesaikan dengan baik. Tak lupa kami ucapkan terima kasih kepada jajaran Dinas Komunikasi, Informatika, Statistik Dan Persandian Kota Semarang yang membantu kami sehingga situs web ini tersedia.
-						<br><br>
-						Situs <a href="">www.ngaliyan.semarangkota.go.id</a> ini sebagai wujud komitmen kami dalam memberikan informasi seluas-seluasnya kepada masyarakat.   Pada situs web ini kami isi dengan berita-berita seputar wilayah Kelurahan Ngaliyan.  Tak kalah menariknya, di situs web ini senantiasa kami update info-info terbaru dan penting yang perlu diketahui oleh masyarakat.  Oleh karena itu, masyarakat perlu sering melihat situs web ini agar tidak ketinggalan informasi penting khususnya untuk layanan administrasi di Kelurahan Ngaliyan. Kritik dan saran selalu kami nantikan, agar panyajian informasi di situs web ini dapat memberikan manfaat yang sebesar-besarnya bagi masyarakat. <br>
-						Wassalamu'alaikum warahmatullahi wabarakaatuh,
+					<h2 class="title-section mx-3">Geografis<br />Kelurahan</h2>
+					<p class="headline-paragraph text-black-50 mx-3">
+						Tanjung Mas merupakan sebuah nama kelurahan di wilayah Kecamatan Semarang Utara, Kota Semarang, Provinsi Jawa Tengah. Di kelurahan ini terdapat Pelabuhan Tanjung Emas yang merupakan satu-satunya pelabuhan di Semarang. Kelurahan Tanjungmas memiliki jumah penduduk sekitar 29.073 jiwa dengan jumlah RT sebanyak 129 buah dan jumlah RW sebanyak 12 buah. 
+						Kelurahan Tanjung Emas berbatasan dengan Laut Jawa disebelah Utara
 					</p>
 				</div>
 				<div class="col-lg-6 mt-4 mt-lg-0">
-					<img src="images/beranda/paklurah.png" alt="image produksi" style="border-radius: 15px" class="img-fluid" />
+					<img src="images/beranda/image1.png" alt="image produksi" style="border-radius: 15px" class="img-fluid" />
 				</div>
 			</div>
 		</div>
@@ -78,12 +70,12 @@
 			<div class="container mt-5">
 				<div class="row d-flex justify-content-between align-items-center">
 					<div class="col-lg-6">
-						<img src="images/beranda/image-pelanggan.png" alt="image profile marwah" class="img-fluid" />
+						<img src="images/beranda/image2.png" alt="image profile marwah" class="img-fluid" />
 					</div>
 					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 						<div class="row">
 							<h2 class="title-section">Layanan Masyarakat</h2>
-							<p class="headline-paragraph text-black-50">Kelurahan Ngaliyan memberikan layanan kemasyarakatan diantaranya adalah Pembuatan KTP, Pembuatan KK, Pengantar Syarat Nikah, Permohonan Akta Kelahiran, Pengaduan Masyarakat, dll.</p>
+							<p class="headline-paragraph text-black-50">Kelurahan Tanjung Mas memberikan layanan kemasyarakatan diantaranya adalah Pembuatan KTP, Pembuatan KK, Pengantar Syarat Nikah, Permohonan Akta Kelahiran, Pengaduan Masyarakat, dll.</p>
 						</div>
 						<div class="row gap-2 mb-2">
 							<div class="col-lg-6 shadow-sm --box-4">
