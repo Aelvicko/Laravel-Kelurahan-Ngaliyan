@@ -44,7 +44,7 @@
             <div style="display: flex; align-items: flex-start;">
                 <h1 class="headline-slogan" style="margin-right:-250px; justyfy-content:center; margin-left:200px; color:black">PROFIL KELURAHAN</h1>    <!-- target -->
                <!-- Tabel Lokasi Kel. Tanjung Mas -->
-                <table border="1" cellpadding="10" cellspacing="0" style="margin-right: 10px; margin-top:150px; margin-left:-400px;">
+                <table border="1" cellpadding="10" cellspacing="0" style="margin-right: 10px; margin-top:170px; margin-left:-400px;">
                      <thead>
                         <tr>
                             <th>Field</th>
@@ -54,7 +54,7 @@
                     <tbody>
                         <tr>
                             <td><i>Kelurahan</i></td>
-                            <td>Tanjung Mas</td>
+                            <td>Ngaliyan</td>
                         </tr>
                         <tr>
                             <td><i>Negara</i></td>
@@ -70,23 +70,23 @@
                         </tr>
                         <tr>
                             <td><i>Kecamatan</i></td>
-                            <td>Semarang Utara</td>
+                            <td>Ngaliyan</td>
                         </tr>
                         <tr>
                             <td><i>Kodepos</i></td>
-                            <td>50174</td>
+                            <td>50181</td>
                         </tr>
                         <tr>
                             <td><i>Kode Kemendagri</i></td>
-                            <td>33.74.02.1008</td>
+                            <td>33.74.15.10074</td>
                         </tr>
                         <tr>
                             <td><i>Kode BPS</i></td>
-                            <td>3374120009</td>
+                            <td>3374160004</td>
                         </tr>
                         <tr>
                             <td><i>Luas</i></td>
-                            <td>3.24 km²</td>
+                            <td>5.28 km²</td>
                         </tr>
                     </tbody>
                 </table>
@@ -95,21 +95,21 @@
                 </div>
 
                 {{-- Deskripsi Profil --}}
-            <p class="headline-paragraph text-black-50 pt-2 px-2">
-                <b>Tanjung Mas</b> merupakan sebuah nama kelurahan di wilayah kecamatan Semarang Utara, 
-                Kota Semarang, Provinsi Jawa Tengah. Kelurahan ini berbatasan dengan Kelurahan Kemijen dan Rejomulyo di sebelah timur, 
-                Purwodinatan di sebelah selatan, Bandarharjo di sebelah barat, dan Laut Jawa di sebelah utara. 
+            <p class="headline-paragraph text-black-50 pt-2 px-2" style="text-align: justify">
+                <b>Ngaliyan</b>  adalah sebuah kelurahan yang terletak di Kecamatan Ngaliyan, Kota Semarang, Provinsi Jawa Tengah. Kelurahan ini berbatasan dengan Kelurahan Wonosari dan Beringin di sebelah barat, Krapyak dan Manyaran di sebelah timur, Podorejo di sebelah utara, serta Bringin di sebelah selatan. 
                 <br><br>
-                Nama kelurahan ini diambil dari Pelabuhan Tanjung Emas, dahulu bernama Pelabuhan Rede, yang dikembangkan oleh 
+                Nama Ngaliyan diyakini berasal dari kata “Ngaliyan” yang berarti aliran atau sungai, yang mengacu pada 
                 <!-- Konten yang akan disembunyikan -->
                 <span id="more-text" style="display: none;">
-                    Pemerintah Hindia Belanda pada tahun 1868 untuk menggantikan pelabuhan lama di Simongan yang dianggap kurang strategis 
-                    karena mengalami pendangkalan akibat endapan lumpur.
+                    banyaknya aliran sungai kecil yang mengalir di wilayah ini pada masa lampau. Sebagai salah satu wilayah penyangga di Semarang, Ngaliyan telah berkembang pesat seiring waktu, baik dari segi infrastruktur maupun penduduknya.
                     <br><br>
-                    Selain pelabuhan, tempat bersejarah paling menonjol di Tanjung Mas adalah Kota Lama Semarang, sebuah wilayah perdagangan Hindia Belanda 
-                    yang mulai dibangun pada akhir abad ke-17. GPIB Immanuel Semarang, dibangun pada tahun 1753, merupakan gereja tertua di Provinsi Jawa Tengah 
-                    dan saat ini berperan sebagai salah satu marka tanah Semarang. 
-                    Selain itu, terdapat pula bangunan-bangunan bersejarah lain seperti Gedung Marabunta, Gedung H. Spiegel, Gedung Asuransi Jiwasraya, dan Stasiun Semarang Tawang.
+                    Di Ngaliyan, terdapat beberapa tempat bersejarah yang menjadi daya tarik. Salah satunya adalah Masjid Jami' Ngaliyan, yang telah berdiri sejak zaman kolonial dan menjadi saksi perjalanan sejarah Islam di kawasan tersebut. Selain itu, Ngaliyan juga memiliki kawasan hijau dan sumber mata air alami yang dahulu menjadi tempat strategis untuk irigasi.
+                    <br><br>
+                    Kelurahan Ngaliyan kini telah berkembang menjadi area urban dengan berbagai fasilitas umum, seperti perkantoran, pusat pendidikan, dan perumahan. Kawasan ini juga terkenal sebagai gerbang masuk ke Semarang dari wilayah barat, berkat keberadaan Jalan Tol Semarang-Batang yang melintasi wilayah ini.
+                    <br><br>
+                    Ngaliyan tidak hanya dikenal sebagai pusat aktivitas modern, tetapi juga menjadi lokasi berkembangnya tradisi budaya. Kegiatan seperti sedekah bumi dan festival seni tradisional rutin diadakan untuk menjaga warisan leluhur. Tradisi ini memperkuat identitas masyarakat Ngaliyan sebagai komunitas yang menghargai sejarah dan budayanya.
+                    <br><br>
+                    Dengan lokasinya yang strategis dan beragam daya tariknya, Ngaliyan terus menjadi salah satu kelurahan yang berperan penting dalam pembangunan Kota Semarang.
                 </span>
             </p>
             <!-- Tombol Read More/Less -->
@@ -144,9 +144,7 @@
 				<div class="col-lg-6">
 					<h2 class="title-section mx-3">Struktur<br />Pemerintahan</h2>
 					<p class="headline-paragraph text-black-50 mx-3">
-						Struktur Pemerintahan dari Kelurahan Tanjung Mas di pimpin oleh Lurah Sony Yudha P.P.,STP,MSI; Tanjung Mas memliki Sekretaris yakni Vivin Kurnia Setyawan, S.T.; Pengelola IT Mulyono, A.Md.;
-                        Pengadministrasi Umum Tumin; Serta ada 3 bidang Seksi, Seksi Pemerintahan Trantibum yakni Yusri Nurwandi,A.Md.; Seksi Perekonomian & Kesejahteraan Sosial Suripto, S.E.; dan Seksi Pembangunan Subeno, S.M.
-                        Dengan adanya pemerintahan Lurah <b>Sony Yudha PP., S.STP, M.SI</b> di harapkan makin berkembang Kelurahan Tanjung Mas.
+						Lurah Ngaliyan: <b>Nur Kholis, S.Kom, MM</b>, Sekretaris Lurah: Suswati, SH, Kasi Perekonomian & Kessos: Fariadi Ariani, SH, Kasi Pembangunan: Fitri Ningtyas Dwiastuti, A.Md, Kasi Pemerintahan dan Trantibum: Nur Rahman Alchusaini, A.Md, Pengelola Data Belanja dan Laporan Keuangan: Ekananda Novita Iryanto, A.Md, Pengelola Teknologi Informasi: Muhammad Iqbal Alamsyah, S.Kom, Pengadministrasi Umum: Sri Mulyani Handayani, Pramu Kebersihan: Hendriyanto
 					</p>
 				</div>
 				<div class="col-lg-6 mt-4 mt-lg-0">

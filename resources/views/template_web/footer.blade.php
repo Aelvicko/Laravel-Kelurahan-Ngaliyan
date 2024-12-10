@@ -416,18 +416,18 @@ color: #FFFFFF;
 
         <div class="col-md-12">
 
-            <div class="col-md-1" style="text-align: center;padding:0px;">
-                <img src="images/logo/logokelurahan.png" width="100%" style="padding-top:10px;max-width: 90px;max-height: 110px;">
-            </div>
-            <div class="col-md-5" style="padding-left: 130px; margin-top: -38px;">
-                <h4 style="padding-top: 5px;margin-bottom: 0px; color:#fa4e3af1; shadow: ">Kelurahan Ngaliyan</h4>
-                <p style="font-size:0.80em;margin-top: 0px;">
-                    Main Location &nbsp;: Jl. Raya Ngaliyan Semarang || Semarang 50181 Indonesia<br>
-                    <i class="fa fa-fax" style="color: #FFCC00"></i> Fax. (024) 7600874 <br>
-                    <i class="fa fa-envelope" style="color: #FFCC00"></i><a href="mailto:officialngaliyan@gmail.com" class="u-active-none u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-btn u-button-link u-button-style u-hover-none u-none u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base u-btn-1">
-                        officialngaliyan@gmail.com</a>
-
-                </p>
+            <div class="col-md-12 d-flex align-items-center">
+                <div class="col-md-2 text-center">
+                    <img src="images/logo/logokelurahan.png" width="100%" style="max-width: 90px; max-height: 110px;">
+                </div>
+                <div class="col-md-6">
+                    <h4 style="color:#fa4e3af1;">Kelurahan Ngaliyan</h4>
+                    <p style="font-size:0.80em;">
+                        Main Location: Jl. Raya Ngaliyan Semarang || Semarang 50181 Indonesia<br>
+                        <i class="fa fa-fax" style="color: #FFCC00"></i> Fax. (024) 7600874<br>
+                        <i class="fa fa-envelope" style="color: #FFCC00"></i> <a href="mailto:officialngaliyan@gmail.com">officialngaliyan@gmail.com</a>
+                    </p>
+                </div>
             </div>
 
             <div class="col-md-12" style="text-align: center; padding-left: 1200px; margin-top: -100px; margin-bottom:-10px">

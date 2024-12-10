@@ -30,117 +30,117 @@
  </head>
  
  {{-- CONTENT CONTACT --}}
-   <body class="u-body u-xl-mode" data-lang="en">
-     <section class="u-align-center u-black u-clearfix u-section-1" id="carousel_b3bb">
-       {{-- ubah background --}}
-       <img class="u-expanded-width u-image u-image-1" src="images/contact/BGcarousel1.png" data-image-width="6067" data-image-height="3467">
-       {{-- List --}}
-       <div class="u-list u-list-1">
-         <div class="u-repeater u-repeater-1">
-           {{-- item lokasi --}}
-           <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-1">
-             <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-               <span class="u-file-icon u-icon u-text-palette-3-base u-icon-1">
-                 <img src="images/contact/lokasi.png" alt="lokasi udinus">
-               </span>
-               <h5 class="u-text u-text-1">Kantor Ngaliyan</h5>
-               <p class="u-text u-text-2"> Jl. Ronggowarsito No.42, Tj. Mas, Semarang Utara, 
-                Kota Semarang </p>
-             </div>
-           </div>
-           {{-- item phone --}}
-           <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-2">
-             <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-               <span class="u-file-icon u-icon u-text-palette-3-base u-icon-2">
-                 <img src="images/contact/phone.png" alt="phone udinus">
-               </span>
-               <h5 class="u-text u-text-3">kontak kami</h5>
-               <p class="u-text u-text-4">(024) 3560341<br>(Admin Kelurahan)
-               </p>
-             </div>
-           </div>
-           {{-- item fax --}}
-           <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-3">
-             <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-               <span class="u-file-icon u-icon u-text-palette-3-base u-icon-3">
-                 <img src="images/contact/fax.png" alt="fax udinus">
-               </span>
-               <h5 class="u-text u-text-5">Fax</h5>
-               <p class="u-text u-text-6"> (024) 3560341</p>
-             </div>
-           </div>
-           {{-- item gmail --}}
-           <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-4">
-             <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
-               <span class="u-file-icon u-icon u-text-palette-3-base u-icon-4">
-                 <img src="images/contact/gmail.png" alt="gmail udinus">
-               </span>
-               <h5 class="u-text u-text-7">Email</h5>
-               <p class="u-text u-text-8">
-                 <a href="mailto:tanjungmas@gmail.com" class="u-active-none u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-btn u-button-link u-button-style u-hover-none u-none u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base u-btn-1">
-                    tanjungmas@gmail.com</a>
-               </p>
-             </div>
-           </div>
- 
-         </div>
-       </div>
- 
-       {{-- FORM --}}
-       <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
-         <div class="u-layout">
-           <div class="u-layout-row">
-             <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
-               <div class="u-container-layout u-valign-top u-container-layout-5">
-                 <div class="u-form u-form-1">
-                   <form action="https://forms.nicepagesrv.com/v2/form/process" class="u-clearfix u-form-spacing-30 u-form-vertical u-inner-form" style="padding: 10px" source="email" name="form">
-                     {{-- FORM email --}}
-                     <div class="u-form-email u-form-group u-form-partition-factor-2">
-                       <label for="email-319a" class="u-label u-text-body-alt-color u-label-1">Email</label>
-                       <input type="email" placeholder="Enter a valid email address" id="email-319a" name="email" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required="">
-                     </div>
-                     {{-- FORM nama --}}
-                     <div class="u-form-group u-form-name u-form-partition-factor-2">
-                       <label for="name-319a" class="u-label u-text-body-alt-color u-label-2">Name</label>
-                       <input type="text" placeholder="Enter your Name" id="name-319a" name="name" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required="">
-                     </div>
-                     {{-- FORM pesan --}}
-                     <div class="u-form-group u-form-message">
-                       <label for="message-319a" class="u-label u-text-body-alt-color u-label-3">Pesan</label>
-                       <textarea placeholder="Enter your message" rows="4" cols="50" id="message-319a" name="message" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required=""></textarea>
-                     </div>
-                     {{-- submit --}}
-                     <div class="u-align-left u-form-group u-form-submit">
-                       <a href="#" class="u-active-white u-border-none u-btn u-btn-round u-btn-submit u-button-style u-hover-white u-palette-3-base u-radius-50 u-text-active-palette-3-base u-text-body-alt-color u-text-hover-palette-3-base u-btn-2">Submit</a>
-                       <input type="submit" value="submit" class="u-form-control-hidden">
-                     </div>
-                     {{-- Flashh --}}
-                     <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
-                     <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
-                     <input type="hidden" value="" name="recaptchaResponse">
-                     <input type="hidden" name="formServices" value="c68c58eba4d099c5f568748addfa30aa">
-                   </form>
-                 </div>
-               </div>
-             </div>
- 
-             {{-- content right --}}
-             <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
-               <div class="u-container-layout u-container-layout-6">
-                 <h2 class="u-align-left u-text u-text-body-alt-color u-text-default u-text-9">Kantor Kelurahan Tanjungmas</h2>
-                 <h6 class="u-align-left u-custom-font u-text u-text-body-alt-color u-text-font u-text-10"> 
-                    Selamat Datang di Website Resmi Kel. Tanjung Mas Kec. Semarang Utara Jl. Ronggowarsito 42 a Semarang.
-                 </h6>
-                 <p class="u-align-left u-text u-text-body-alt-color u-text-11">
-                  Kontak Kami melalui phone <i>(024) 3560341</i> atau email  <a href="mailto:tanjungmas@gmail.com" class="u-active-none u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-btn u-button-link u-button-style u-hover-none u-none u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base u-btn-1">
-                    tanjungmas@gmail.com</a> untuk informasi yang Anda butuhkan lebih lanjut.
-                </p> 
-                 </p>
+ <body class="u-body u-xl-mode" data-lang="en">
+  <section class="u-align-center u-black u-clearfix u-section-1" id="carousel_b3bb">
+    {{-- ubah background --}}
+    <img class="u-expanded-width u-image u-image-1" src="images/contact/BGcarousel1.png" data-image-width="6067" data-image-height="3467">
+    {{-- List --}}
+    <div class="u-list u-list-1">
+      <div class="u-repeater u-repeater-1">
+        {{-- item lokasi --}}
+        <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-1">
+          <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+            <span class="u-file-icon u-icon u-text-palette-3-base u-icon-1">
+              <img src="images/contact/lokasi.png" alt="lokasi udinus">
+            </span>
+            <h5 class="u-text u-text-1">Kantor Kelurahan Ngaliyan</h5>
+            <p class="u-text u-text-2">Jl. Raya Ngaliyan, Kec. Ngaliyan, Kota Semarang, Jawa Tengah, 
+             Kota Semarang </p>
+          </div>
+        </div>
+        {{-- item phone --}}
+        <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-2">
+          <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+            <span class="u-file-icon u-icon u-text-palette-3-base u-icon-2">
+              <img src="images/contact/phone.png" alt="phone udinus">
+            </span>
+            <h5 class="u-text u-text-3">kontak kami</h5>
+            <p class="u-text u-text-4">(024) 7600874<br>(Admin Kelurahan)
+            </p>
+          </div>
+        </div>
+        {{-- item fax --}}
+        <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-3">
+          <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+            <span class="u-file-icon u-icon u-text-palette-3-base u-icon-3">
+              <img src="images/contact/fax.png" alt="fax udinus">
+            </span>
+            <h5 class="u-text u-text-5">Fax</h5>
+            <p class="u-text u-text-6"> (024) 7600874</p>
+          </div>
+        </div>
+        {{-- item gmail --}}
+        <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-4">
+          <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
+            <span class="u-file-icon u-icon u-text-palette-3-base u-icon-4">
+              <img src="images/contact/gmail.png" alt="gmail udinus">
+            </span>
+            <h5 class="u-text u-text-7">Email</h5>
+            <p class="u-text u-text-8">
+              <a href="mailto:officialngaliyan@gmail.com" class="u-active-none u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-btn u-button-link u-button-style u-hover-none u-none u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base u-btn-1">
+                 officialngaliyan@gmail.com</a>
+            </p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    {{-- FORM --}}
+    <div class="u-clearfix u-layout-wrap u-layout-wrap-1">
+      <div class="u-layout">
+        <div class="u-layout-row">
+          <div class="u-container-style u-layout-cell u-left-cell u-size-30 u-layout-cell-1">
+            <div class="u-container-layout u-valign-top u-container-layout-5">
+              <div class="u-form u-form-1">
+                <form action="https://forms.nicepagesrv.com/v2/form/process" class="u-clearfix u-form-spacing-30 u-form-vertical u-inner-form" style="padding: 10px" source="email" name="form">
+                  {{-- FORM email --}}
+                  <div class="u-form-email u-form-group u-form-partition-factor-2">
+                    <label for="email-319a" class="u-label u-text-body-alt-color u-label-1">Email</label>
+                    <input type="email" placeholder="Enter a valid email address" id="email-319a" name="email" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required="">
+                  </div>
+                  {{-- FORM nama --}}
+                  <div class="u-form-group u-form-name u-form-partition-factor-2">
+                    <label for="name-319a" class="u-label u-text-body-alt-color u-label-2">Name</label>
+                    <input type="text" placeholder="Enter your Name" id="name-319a" name="name" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required="">
+                  </div>
+                  {{-- FORM pesan --}}
+                  <div class="u-form-group u-form-message">
+                    <label for="message-319a" class="u-label u-text-body-alt-color u-label-3">Pesan</label>
+                    <textarea placeholder="Enter your message" rows="4" cols="50" id="message-319a" name="message" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required=""></textarea>
+                  </div>
+                  {{-- submit --}}
+                  <div class="u-align-left u-form-group u-form-submit">
+                    <a href="#" class="u-active-white u-border-none u-btn u-btn-round u-btn-submit u-button-style u-hover-white u-palette-3-base u-radius-50 u-text-active-palette-3-base u-text-body-alt-color u-text-hover-palette-3-base u-btn-2">Submit</a>
+                    <input type="submit" value="submit" class="u-form-control-hidden">
+                  </div>
+                  {{-- Flashh --}}
+                  <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
+                  <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
+                  <input type="hidden" value="" name="recaptchaResponse">
+                  <input type="hidden" name="formServices" value="c68c58eba4d099c5f568748addfa30aa">
+                </form>
+              </div>
+            </div>
+          </div>
+
+          {{-- content right --}}
+          <div class="u-align-left u-container-align-left u-container-style u-layout-cell u-right-cell u-size-30 u-layout-cell-2">
+            <div class="u-container-layout u-container-layout-6">
+              <h2 class="u-align-left u-text u-text-body-alt-color u-text-default u-text-9">Kantor Kelurahan Ngaliyan</h2>
+              <h6 class="u-align-left u-custom-font u-text u-text-body-alt-color u-text-font u-text-10"> 
+                 Selamat Datang di Website Resmi Kel. Ngaliyan Kec. Ngaliyan Jl. Raya Ngaliyan, Kota Semarang, Jawa Tengah
+              </h6>
+              <p class="u-align-left u-text u-text-body-alt-color u-text-11">
+               Kontak Kami melalui phone <i>(024) 7600874</i> atau email  <a href="mailto:officialngaliyan@gmail.com" class="u-active-none u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-btn u-button-link u-button-style u-hover-none u-none u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base u-btn-1">
+                 officialngaliyan@gmail.com</a> untuk informasi yang Anda butuhkan lebih lanjut.
+             </p> 
+            </p>
                  
                  {{-- SOSMED --}}
                  <div class="u-social-icons u-spacing-20 u-social-icons-1">
                     {{-- SOSMED 1 facebook --}}
-                   <a class="u-social-url" target="_blank" href="https://www.facebook.com/pages/Kelurahan%20Tanjung%20Emas%20Semarang%20Utara/131972440313750/">
+                   <a class="u-social-url" target="_blank" href="https://www.facebook.com/kelurahan.ngaliyan.9/?locale=id_ID">
                      <span class="u-icon u-icon-circle u-social-facebook u-social-icon u-text-palette-3-base u-icon-5">
                        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
                          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-7d32">
@@ -153,7 +153,7 @@
                      </span>
                    </a>
                    {{-- SOSMED 2 twitter --}}
-                   <a class="u-social-url" target="_blank" href="https://twitter.com/kel_Tanjungmas/">
+                   <a class="u-social-url" target="_blank" href="https://twitter.com/">
                      <span class="u-icon u-icon-circle u-social-icon u-social-twitter u-text-palette-3-base u-icon-6">
                        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
                          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-a46b">
@@ -166,7 +166,7 @@
                      </span>
                    </a>
                    {{-- SOSMED 3 instagram --}}
-                   <a class="u-social-url" target="_blank" href="https://www.instagram.com/keltanjungmas/">
+                   <a class="u-social-url" target="_blank" href="https://www.instagram.com/ngaliyankelurahan_/">
                      <span class="u-icon u-icon-circle u-social-icon u-social-instagram u-text-palette-3-base u-icon-7">
                        <svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 112 112" style="">
                          <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-8341">
@@ -206,3 +206,4 @@
      
    </body>
  </html>
+

@@ -150,7 +150,7 @@
 								<img src="images/beranda/quality-control.png" alt="" />
 								<h4>PKK</h4>
 							</div>
-							<p class="text-black-50 headline-paragraph">Organisasi Kemasyarakatan (PKK) Kelurahan Tanjung Mas dalam setiap momentum seperti Posyandu Balita, Kelas Bumil, Lomba, dll.</p>
+							<p class="text-black-50 headline-paragraph">Organisasi Kemasyarakatan (PKK) Kelurahan Ngaliyan dalam setiap momentum seperti Posyandu Balita, Kelas Bumil, Lomba, dll.</p>
 						</div>
 					</div>
 					<div class="col-lg-4">
@@ -159,7 +159,7 @@
 								<img src="images/beranda/design-tool.png" alt="" />
 								<h4>Karang Taruna</h4>
 							</div>
-							<p class="text-black-50 headline-paragraph">Organisasi Kepemudaan " Satria Tanjung Anom" (Karang Taruna) Kelurahan Tanjung Mas seperti RAKERDA, Sosialisasi Fotografi dan Videografi, Pentas Seni, dll.</p>
+							<p class="text-black-50 headline-paragraph">Organisasi Kepemudaan " Satria Tanjung Anom" (Karang Taruna) Kelurahan Ngaliyan seperti RAKERDA, Sosialisasi Fotografi dan Videografi, Pentas Seni, dll.</p>
 						</div>
 					</div>
 					<div class="col-lg-4">
@@ -168,7 +168,7 @@
 								<img src="images/beranda/sewing-machine.png" alt="" />
 								<h4>UMKM</h4>
 							</div>
-							<p class="text-black-50 headline-paragraph">Pelaku UMKM setempat Kelurahan Tanjung Mas seperti Posyandu Workshop Brand Industrial, Kerajinan Hasil Laut, Pemasaran, dll.</p>
+							<p class="text-black-50 headline-paragraph">Pelaku UMKM setempat Kelurahan Ngaliyan seperti Posyandu Workshop Brand Industrial, Kerajinan Hasil Laut, Pemasaran, dll.</p>
 						</div>
 					</div>
 				</div>
