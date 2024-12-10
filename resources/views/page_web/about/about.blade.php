@@ -42,7 +42,7 @@
     <div class="row mt-md-5 d-flex justify-content-center">
         <div class="col-lg-7 text-center" style="margin-right: 0px;">
             <div style="display: flex; align-items: flex-start;">
-                <h1 class="headline-slogan" style="margin-right:-250px; justyfy-content:center; margin-left:140px;">PROFIL KELURAHAN</h1>    <!-- target -->
+                <h1 class="headline-slogan" style="margin-right:-250px; justyfy-content:center; margin-left:200px; color:black">PROFIL KELURAHAN</h1>    <!-- target -->
                <!-- Tabel Lokasi Kel. Tanjung Mas -->
                 <table border="1" cellpadding="10" cellspacing="0" style="margin-right: 10px; margin-top:150px; margin-left:-400px;">
                      <thead>
@@ -91,7 +91,7 @@
                     </tbody>
                 </table>
                     <!-- Gambar Peta Infrastruktur Kel. Tanjung Mas-->
-                    <img src="images/about/peta-tanjung-mas.png" alt="Gambar Lokasi" style="width: 700px; height: auto; margin-top: 150px;">
+                    <img src="images/about/peta-ngaliyan.png" alt="Gambar Lokasi" style="width: 700px; height: auto; margin-top: 150px;">
                 </div>
 
                 {{-- Deskripsi Profil --}}
@@ -114,7 +114,7 @@
             </p>
             <!-- Tombol Read More/Less -->
             <div class="d-flex justify-content-center">
-                <button id="read-more-btn" class="btn btn-primary" onclick="toggleText()">Read More</button>
+                <button id="read-more-btn" class="btn btn-danger" onclick="toggleText()">Read More</button>
             </div>
         </div>
     </div>
@@ -165,8 +165,8 @@
 					</div>
 					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 						<div class="row">
-							<h2 class="title-section">VISI</h2>
-							<p class="headline-paragraph text-black-50">"Terwujudnya Kota Semarang yang Semakin Hebat Berlandaskan Pancasila dalam Bingkai NKRI yang Ber-Bhineka Tunggal Ika"</p>
+							<h2 style="color:white; font-size: 2.8rem;">VISI</h2>
+							<p class="headline-paragraph" style="color: white; font-size: 1rem">"Terwujudnya Kota Semarang yang Semakin Hebat Berlandaskan Pancasila dalam Bingkai NKRI yang Ber-Bhineka Tunggal Ika"</p>
 						</div>
 					</div>
 				</div>
@@ -180,8 +180,8 @@
 				<div class="row d-flex justify-content-between align-items-center">
 					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 						<div class="row">
-							<h2 class="title-section">MISI</h2>
-							<p class="headline-paragraph text-black-50">
+							<h2 style="color:white; font-size: 2.8rem;">MISI</h2>
+							<p class="headline-paragraph" style="color: white; font-size: 1rem">
 								Meningkatkan kualitas & kapasitas sumber daya manusia yang unggul & produktif untuk mencapai kesejahteraan & keadilan sosial<br><br>
 								Meningkatkan potensi ekonomi lokal yang berdaya saing & stimulasi pembangunan industri, berlandaskan riset & inovasi berdasar prinsip demokrasi ekonomi pancasila<br><br>
 								Menjamin kemerdekaan masyarakat menjalankan ibadah, pemenuhan hak dasar & perlindungan kesejahteraan sosial serta hak asasi manusia bagi masyarakat secara berkeadilan<br><br>

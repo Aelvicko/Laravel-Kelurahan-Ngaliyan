@@ -411,33 +411,33 @@ color: #FFFFFF;
 <!-- DISINI HARUSNYA ADA FOOTER karangtaruna, kamtibnas,pbb dan lain lain tpi sudah dihapus vicko-->
 
 
-<div style="background-color: #2F2F2F; color:#fff;padding-top:4px;padding-bottom:20px;">
+<div style="background-color: #2F2F2F; color:#fff;padding-top:4px;padding-bottom:5px;">
     <div class="container-fluid">
 
         <div class="col-md-12">
 
             <div class="col-md-1" style="text-align: center;padding:0px;">
-                <img src="images/logo/logokelurahan.png" width="100%" style="padding-top:30px;max-width: 90px;max-height: 110px;">
+                <img src="images/logo/logokelurahan.png" width="100%" style="padding-top:10px;max-width: 90px;max-height: 110px;">
             </div>
-            <div class="col-md-5" style="padding-left: 130px; margin-top: -60px;">
+            <div class="col-md-5" style="padding-left: 130px; margin-top: -38px;">
                 <h4 style="padding-top: 5px;margin-bottom: 0px; color:#fa4e3af1; shadow: ">Kelurahan Ngaliyan</h4>
                 <p style="font-size:0.80em;margin-top: 0px;">
-                    Main Location &nbsp;: Semarang Barat Street || <i class="fa fa-phone" style="color: #FFCC00"></i> (024) 3560341<br>
-                    Other Location : Jl. Raya Ngaliyan Semarang Street || <i class="fa fa-phone" style="color: #FFCC00"></i> (024) 3560341<br>
-                    <i class="fa fa-fax" style="color: #FFCC00"></i> Fax. (024) 3560341 || Semarang 50174 Indonesia<br>
-                    <i class="fa fa-envelope" style="color: #FFCC00"></i><a href="https://usm.ac.id/id/" style="color: #fff;"> Contact us</a>
+                    Main Location &nbsp;: Jl. Raya Ngaliyan Semarang || Semarang 50181 Indonesia<br>
+                    <i class="fa fa-fax" style="color: #FFCC00"></i> Fax. (024) 7600874 <br>
+                    <i class="fa fa-envelope" style="color: #FFCC00"></i><a href="mailto:officialngaliyan@gmail.com" class="u-active-none u-border-1 u-border-active-black u-border-hover-black u-border-no-left u-border-no-right u-border-no-top u-btn u-button-link u-button-style u-hover-none u-none u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base u-btn-1">
+                        officialngaliyan@gmail.com</a>
 
                 </p>
             </div>
 
-            <div class="col-md-12" style="text-align: center; padding-left: 1200px; margin-top: -120px; margin-bottom:-10px">
+            <div class="col-md-12" style="text-align: center; padding-left: 1200px; margin-top: -100px; margin-bottom:-10px">
                 <h4 style="color: #fff; font-size:23px; margin-bottom:2px ">Contact Us</h4>
 
 
                 <ul class="social-network social-circle">
                     <!--                      <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>-->
                     <li><a target="_blank" href="https://www.facebook.com/pages/Kelurahan%20Tanjung%20Emas%20Semarang%20Utara/131972440313750/" class="icoFacebook" title="Facebook"><i class="fa fa-facebook sc"></i></a></li>
-                    <li><a target="_blank" href="https://twitter.com/kel_Tanjungmas/" class="icoTwitter" title="Twitter"><i class="fa fa-twitter sc"></i></a></li>
+                    <li><a target="_blank" class="icoTwitter" title="Twitter"><i class="fa fa-twitter sc"></i></a></li>
                     <li><a target="_blank" href="https://plus.google.com/101582294656647784536" class="icoGoogle" title="Google +"><i class="fa fa-google-plus sc"></i></a></li>
 
                 </ul>
