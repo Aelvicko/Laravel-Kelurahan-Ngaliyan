@@ -416,16 +416,20 @@ color: #FFFFFF;
 
         <div class="col-md-12">
 
-            <div class="col-md-12 d-flex align-items-center">
+            <div class="col-md-12 d-flex align-items-start">
+                <!-- Logo -->
                 <div class="col-md-2 text-center">
-                    <img src="images/logo/logokelurahan.png" width="100%" style="max-width: 90px; max-height: 110px;">
+                    <img src="images/logo/logosemarang.png" style="width: 100%; max-width: 90px; max-height: 85px; margin-top: 5px">
                 </div>
-                <div class="col-md-6">
-                    <h4 style="color:#fa4e3af1;">Kelurahan Ngaliyan</h4>
-                    <p style="font-size:0.80em;">
+            
+                <!-- Tulisan -->
+                <div class="col-md-6" style="margin-left: -80px">
+                    <h4 style="color:#fa4e3af1; margin-top: 0;">Kelurahan Ngaliyan</h4>
+                    <p style="font-size:0.80em; margin-top: -10px;">
                         Main Location: Jl. Raya Ngaliyan Semarang || Semarang 50181 Indonesia<br>
                         <i class="fa fa-fax" style="color: #FFCC00"></i> Fax. (024) 7600874<br>
-                        <i class="fa fa-envelope" style="color: #FFCC00"></i> <a href="mailto:officialngaliyan@gmail.com">officialngaliyan@gmail.com</a>
+                        <i class="fa fa-envelope" style="color: #FFCC00"></i> 
+                        <a href="mailto:officialngaliyan@gmail.com" style="color: #FFCC00; text-decoration: none;">officialngaliyan@gmail.com</a>
                     </p>
                 </div>
             </div>
