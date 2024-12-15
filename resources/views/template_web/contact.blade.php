@@ -38,21 +38,22 @@
     <div class="u-list u-list-1">
       <div class="u-repeater u-repeater-1">
         {{-- item lokasi --}}
-        <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-1">
-          <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
-            <span class="u-file-icon u-icon u-text-palette-3-base u-icon-1">
-              <img src="images/contact/lokasi.png" alt="lokasi udinus">
-            </span>
-            <h5 class="u-text u-text-1">Kantor Kelurahan Ngaliyan</h5>
-            <p class="u-text u-text-2">Jl. Raya Ngaliyan, Kec. Ngaliyan, Kota Semarang, Jawa Tengah, 
-             Kota Semarang </p>
-          </div>
+          <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-1">
+            <div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+              <span class="u-file-icon u-icon u-text-palette-3-base u-icon-1">
+                <img src="images/contact/lokasi.png" alt="lokasi USM">
+              </span>
+              <h5 class="u-text u-text-1">Kantor Kelurahan Ngaliyan</h5>
+              <p class="u-text u-text-2">Jl. Raya Ngaliyan, Kec. Ngaliyan, Kota Semarang, Jawa Tengah, 
+              Kota Semarang </p>
+            </div>
+          
         </div>
         {{-- item phone --}}
         <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-2">
           <div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
             <span class="u-file-icon u-icon u-text-palette-3-base u-icon-2">
-              <img src="images/contact/phone.png" alt="phone udinus">
+              <img src="images/contact/phone.png" alt="phone USM">
             </span>
             <h5 class="u-text u-text-3">kontak kami</h5>
             <p class="u-text u-text-4">(024) 7600874<br>(Admin Kelurahan)
@@ -63,7 +64,7 @@
         <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-3">
           <div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
             <span class="u-file-icon u-icon u-text-palette-3-base u-icon-3">
-              <img src="images/contact/fax.png" alt="fax udinus">
+              <img src="images/contact/fax.png" alt="fax USM">
             </span>
             <h5 class="u-text u-text-5">Fax</h5>
             <p class="u-text u-text-6"> (024) 7600874</p>
@@ -73,7 +74,7 @@
         <div class="u-align-center u-container-style u-list-item u-radius-20 u-repeater-item u-shape-round u-white u-list-item-4">
           <div class="u-container-layout u-similar-container u-valign-top u-container-layout-4">
             <span class="u-file-icon u-icon u-text-palette-3-base u-icon-4">
-              <img src="images/contact/gmail.png" alt="gmail udinus">
+              <img src="images/contact/gmail.png" alt="gmail USM">
             </span>
             <h5 class="u-text u-text-7">Email</h5>
             <p class="u-text u-text-8">
@@ -97,17 +98,17 @@
                   {{-- FORM email --}}
                   <div class="u-form-email u-form-group u-form-partition-factor-2">
                     <label for="email-319a" class="u-label u-text-body-alt-color u-label-1">Email</label>
-                    <input type="email" placeholder="Enter a valid email address" id="email-319a" name="email" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required="">
+                    <input type="email" placeholder="Masukkan Email" id="email-319a" name="email" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-body-alt-color" style="color: blackrequired="">
                   </div>
                   {{-- FORM nama --}}
                   <div class="u-form-group u-form-name u-form-partition-factor-2">
                     <label for="name-319a" class="u-label u-text-body-alt-color u-label-2">Name</label>
-                    <input type="text" placeholder="Enter your Name" id="name-319a" name="name" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required="">
+                    <input type="text" placeholder="Nama" id="name-319a" name="name" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-body-alt-color" style="color: black required="">
                   </div>
                   {{-- FORM pesan --}}
                   <div class="u-form-group u-form-message">
                     <label for="message-319a" class="u-label u-text-body-alt-color u-label-3">Pesan</label>
-                    <textarea placeholder="Enter your message" rows="4" cols="50" id="message-319a" name="message" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-text-body-alt-color" required=""></textarea>
+                    <textarea placeholder="Tulis pesan" rows="4" cols="50" id="message-319a" name="message" class="u-border-2 u-border-no-left u-border-no-right u-border-no-top u-border-white u-input u-input-rectangle u-body-alt-color" style="color: black" required=""></textarea>
                   </div>
                   {{-- submit --}}
                   <div class="u-align-left u-form-group u-form-submit">

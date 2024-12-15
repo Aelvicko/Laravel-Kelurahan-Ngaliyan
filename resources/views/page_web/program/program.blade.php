@@ -62,7 +62,8 @@
 					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 						<div class="row">
 							<h2 class="title-section">Layanan Kemasyarakatan</h2>
-							<p class="headline-paragraph text-black-50">Kelurahan Tanjung Mas memberikan layanan kemasyarakatan diantaranya adalah Pembuatan KTP, Pembuatan KK, Pengantar Syarat Nikah, Permohonan Akta Kelahiran, Pengaduan Masyarakat, dll.</p>
+							<p class="headline-paragraph text-black-50">Kelurahan Ngaliyan
+								 memberikan layanan kemasyarakatan diantaranya adalah Pembuatan KTP, Pembuatan KK, Pengantar Syarat Nikah, Permohonan Akta Kelahiran, Pengaduan Masyarakat, dll.</p>
 						</div>
 						<div class="row gap-2 mb-2">
 							<div class="col-lg-6 shadow-sm --box-4">
@@ -134,7 +135,8 @@
         <img src="images/layanan/kk.png" class="card-img-top" alt="kartu keluarga">
         <div class="card-body">
           <h5 class="card-title">Pembuatan KK</h5>
-          <p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan pembuatan KK (Kartu Keluarga) diantaranya, Permohonan KK baru, Permohonan KK baru bagi penduduk yang sudah mempunyai NIK, Permohonan numpang KK..</p>
+          <p class="card-text">Kelurahan Ngaliyan
+			 memiliki pelayanan pembuatan KK (Kartu Keluarga) diantaranya, Permohonan KK baru, Permohonan KK baru bagi penduduk yang sudah mempunyai NIK, Permohonan numpang KK..</p>
         </div>
         <div class="card-footer">
           <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_kk">More details &raquo;</a>
@@ -147,7 +149,8 @@
         <img src="images/layanan/ktp.png" class="card-img-top" alt="ktp">
         <div class="card-body">
           <h5 class="card-title">Pembuatan KTP</h5>
-          <p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan diantaranya penerbitan KTP rusak, pindah datang, perpanjangan, perubahan data, tinggal sementara di Kota Semarang dll ..</p>
+          <p class="card-text">Kelurahan Ngaliyan
+			 memiliki pelayanan diantaranya penerbitan KTP rusak, pindah datang, perpanjangan, perubahan data, tinggal sementara di Kota Semarang dll ..</p>
         </div>
         <div class="card-footer">
           <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_ktp">More details &raquo;</a>
@@ -160,7 +163,8 @@
         <img src="images/layanan/nikah.png" class="card-img-top" alt="pengantar surat nikah">
         <div class="card-body">
           <h5 class="card-title">Pengantar Syarat Nikah</h5>
-          <p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan Pengantar atau Syarat Nikah dengan persyaratan berikut ini untuk pemrosesan lebih lanjut ..</p>
+          <p class="card-text">Kelurahan Ngaliyan
+			 memiliki pelayanan Pengantar atau Syarat Nikah dengan persyaratan berikut ini untuk pemrosesan lebih lanjut ..</p>
         </div>
         <div class="card-footer">
           <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_nikah">More details &raquo;</a>
@@ -173,7 +177,8 @@
         <img src="images/layanan/akte kelahiran.png" class="card-img-top" alt="akte kelahiran">
         <div class="card-body">
           <h5 class="card-title">Permohonan Akte Kelahiran</h5>
-          <p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan Permohonan Akte Kelahiran dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
+          <p class="card-text">Kelurahan Ngaliyan
+			 memiliki pelayanan Permohonan Akte Kelahiran dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
         </div>
         <div class="card-footer">
           <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_akte_kelahiran">More details &raquo;</a>
@@ -186,7 +191,8 @@
         <img src="images/layanan/akte kematian.png" class="card-img-top" alt="akte kematian">
         <div class="card-body">
           <h5 class="card-title">Permohonan Akte Kematian</h5>
-          <p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan Permohonan Akte Kematian dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
+          <p class="card-text">Kelurahan Ngaliyan
+			 memiliki pelayanan Permohonan Akte Kematian dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
         </div>
         <div class="card-footer">
           <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_akte_kematian">More details &raquo;</a>
@@ -199,7 +205,8 @@
         <img src="images/layanan/pengaduan.png" class="card-img-top" alt="pengaduan masyarakat">
         <div class="card-body">
           <h5 class="card-title">Pengaduan Masyarakat</h5>
-          <p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan Pengaduan Masyarakat dengan mekanisme persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
+          <p class="card-text">Kelurahan Ngaliyan
+			 memiliki pelayanan Pengaduan Masyarakat dengan mekanisme persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
         </div>
         <div class="card-footer">
           <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_pengaduan">More details &raquo;</a>
@@ -212,7 +219,8 @@
 		  <img src="images/layanan/pelayanan.png" class="card-img-top" alt="alur pelayanan sistem">
 		  <div class="card-body">
 			<h5 class="card-title">Alur Sistem Pelayanan</h5>
-			<p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan Alur Sistem Pelayanan Publik dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
+			<p class="card-text">Kelurahan Ngaliyan
+				 memiliki pelayanan Alur Sistem Pelayanan Publik dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
 		  </div>
 		  <div class="card-footer">
 			<small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_pelayanan">More details &raquo;</a>
@@ -225,7 +233,8 @@
 		  <img src="images/layanan/pajak pbb.png" class="card-img-top" alt="cek pbb">
 		  <div class="card-body">
 			<h5 class="card-title">Cek PBB</h5>
-			<p class="card-text">Kelurahan Tanjung Mas memiliki pelayanan Cek PBB (Pajak Bumi & Bangunan) dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
+			<p class="card-text">Kelurahan Ngaliyan
+				 memiliki pelayanan Cek PBB (Pajak Bumi & Bangunan) dengan persyaratan sebagai berikut untuk pemrosesan lebih lanjut ..</p>
 		  </div>
 		  <div class="card-footer">
 			<small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/layanan_pbb">More details &raquo;</a>
@@ -253,7 +262,8 @@
 			<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 				<div class="row">
 					<h2 class="title-section">Kelembagaan</h2>
-					<p class="headline-paragraph text-black-50">Kelurahan Tanjung Mas memiliki kelembagaan kemasyarakatan diantaranya adalah LPMK, UMKM, BKM, PKK, Karang Taruna, FKK, KSM & KWT Tunas Bahagia.</p>
+					<p class="headline-paragraph text-black-50">Kelurahan Ngaliyan
+						 memiliki kelembagaan kemasyarakatan diantaranya adalah LPMK, UMKM, BKM, PKK, Karang Taruna, FKK, KSM & KWT Tunas Bahagia.</p>
 				</div>
 				<div class="row gap-2 mb-2">
 					<div class="col-lg-6 shadow-sm --box-4">
@@ -325,7 +335,8 @@
 <img src="images/layanan/lpmk.png" class="card-img-top" alt="lpmk">
 <div class="card-body">
   <h5 class="card-title">LPMK</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Lembaga Pemberdayaan Masyarakat Kelurahan (LPMK) yang berperan aktif dalam ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki kelembagaan Lembaga Pemberdayaan Masyarakat Kelurahan (LPMK) yang berperan aktif dalam ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_lpmk">More details &raquo;</a>
@@ -338,7 +349,8 @@
 <img src="images/layanan/umkm.png" class="card-img-top" alt="umkm">
 <div class="card-body">
   <h5 class="card-title">UMKM</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Usaha Mikro, Kecil dan Menengah (UMKM) yang berperan aktif melakukan pelatihan dan pengembangan ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki kelembagaan Usaha Mikro, Kecil dan Menengah (UMKM) yang berperan aktif melakukan pelatihan dan pengembangan ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_umkm">More details &raquo;</a>
@@ -351,7 +363,8 @@
 <img src="images/layanan/bkm.png" class="card-img-top" alt="bkm">
 <div class="card-body">
   <h5 class="card-title">BKM</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Badan Keswadayaan Masyarakat (BKM) yang berperan aktif dalam pembangunan ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki kelembagaan Badan Keswadayaan Masyarakat (BKM) yang berperan aktif dalam pembangunan ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_bkm">More details &raquo;</a>
@@ -364,7 +377,8 @@
 <img src="images/layanan/pkk.png" class="card-img-top" alt="pkk">
 <div class="card-body">
   <h5 class="card-title">PKK</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Pemberdayaan Kesejahteraan Keluarga (PKK) bagi ibu rumah tangga yang berisi 10 program pokok ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki kelembagaan Pemberdayaan Kesejahteraan Keluarga (PKK) bagi ibu rumah tangga yang berisi 10 program pokok ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_pkk">More details &raquo;</a>
@@ -377,7 +391,8 @@
 <img src="images/layanan/karang taruna.png" class="card-img-top" alt="karang taruna">
 <div class="card-body">
   <h5 class="card-title">KARANG TARUNA</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Karang Taruna untuk organisasi sosial sebagai wadah & sarana pengembangan yang tumbuh bagi remaja ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki kelembagaan Karang Taruna untuk organisasi sosial sebagai wadah & sarana pengembangan yang tumbuh bagi remaja ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_karang_taruna">More details &raquo;</a>
@@ -390,7 +405,8 @@
 <img src="images/layanan/fkk.png" class="card-img-top" alt="fkk">
 <div class="card-body">
   <h5 class="card-title">FKK</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Forum Kesehatan Keluarga (FKK) kegiatan monitoring evaluasi pembangunan kesehatan tingkat kelurahan ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki kelembagaan Forum Kesehatan Keluarga (FKK) kegiatan monitoring evaluasi pembangunan kesehatan tingkat kelurahan ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_fkk">More details &raquo;</a>
@@ -403,7 +419,8 @@
   <img src="images/layanan/ksm.png" class="card-img-top" alt="ksm">
   <div class="card-body">
 	<h5 class="card-title">KSM</h5>
-	<p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Kelompok Swadaya Masyarakat (KSM) aktivitasnya berorientasi pada penanggulangan kemiskinan ..</p>
+	<p class="card-text">Kelurahan Ngaliyan
+		 memiliki kelembagaan Kelompok Swadaya Masyarakat (KSM) aktivitasnya berorientasi pada penanggulangan kemiskinan ..</p>
   </div>
   <div class="card-footer">
 	<small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_ksm">More details &raquo;</a>
@@ -416,7 +433,9 @@
   <img src="images/layanan/kwt tunas bahagia.png" class="card-img-top" alt="kwt tunas bahagia">
   <div class="card-body">
 	<h5 class="card-title">KWT TUNAS BAHAGIA</h5>
-	<p class="card-text">Kelurahan Tanjung Mas memiliki kelembagaan Kelompok Wanita Tani (KWT) Tunas Bahagia di kelurahan Tanjung Mas ..</p>
+	<p class="card-text">Kelurahan Ngaliyan
+		 memiliki kelembagaan Kelompok Wanita Tani (KWT) Tunas Bahagia di kelurahan Ngaliyan
+		 ..</p>
   </div>
   <div class="card-footer">
 	<small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/kelembagaan_kwt">More details &raquo;</a>
@@ -444,7 +463,8 @@
 			<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 				<div class="row">
 					<h2 class="title-section">Pemberdayaan</h2>
-					<p class="headline-paragraph text-black-50">Kelurahan Tanjung Mas memiliki pemberdayaan kemasyarakatan diantaranya pada aspek - aspek bidang Kesehatan, Pariwisata, Pendidikan, Kamtibmas, Ekonomi serta Pemberdayaan Perempuan.</p>
+					<p class="headline-paragraph text-black-50">Kelurahan Ngaliyan
+						 memiliki pemberdayaan kemasyarakatan diantaranya pada aspek - aspek bidang Kesehatan, Pariwisata, Pendidikan, Kamtibmas, Ekonomi serta Pemberdayaan Perempuan.</p>
 				</div>
 				<div class="row gap-2 mb-2">
 					<div class="col-lg-6 shadow-sm --box-4">
@@ -516,7 +536,8 @@
 <img src="images/layanan/kesehatan.png" class="card-img-top" alt="bidang kesehatan">
 <div class="card-body">
   <h5 class="card-title">Bidang Kesehatan</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki pemberdayaan pada Bidang Kesehatan untuk pelayanan masyarakat sebagai bentuk kepedulianpenanganan medis ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki pemberdayaan pada Bidang Kesehatan untuk pelayanan masyarakat sebagai bentuk kepedulianpenanganan medis ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/pemberdayaan_kesehatan">More details &raquo;</a>
@@ -529,7 +550,8 @@
 <img src="images/layanan/pariwisata.png" class="card-img-top" alt="bidang pariwisata">
 <div class="card-body">
   <h5 class="card-title">Bidang Pariwisata</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki pemberdayaan pada Bidang Pariwisata untuk meningkatkan destinasi pariwisata untuk menunjang <i>income</i> lingkungan sekitar ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki pemberdayaan pada Bidang Pariwisata untuk meningkatkan destinasi pariwisata untuk menunjang <i>income</i> lingkungan sekitar ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/pemberdayaan_pariwisata">More details &raquo;</a>
@@ -542,7 +564,8 @@
 <img src="images/layanan/pendidikan.png" class="card-img-top" alt="bidang pendidikan">
 <div class="card-body">
   <h5 class="card-title">Bidang Pendidikan</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki pemberdayaan pada Bidang Pendidikan untuk meningkatkan kualitas pendidikan sebagai bentuk pendidikan yang layak ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki pemberdayaan pada Bidang Pendidikan untuk meningkatkan kualitas pendidikan sebagai bentuk pendidikan yang layak ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/pemberdayaan_pendidikan">More details &raquo;</a>
@@ -555,7 +578,8 @@
 <img src="images/layanan/kamtibmas.png" class="card-img-top" alt="kamtibmas">
 <div class="card-body">
   <h5 class="card-title">Kamtibmas</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki pemberdayaan pada Bidang KAMTIBMAS (Keamanan dan Ketertiban Masyarakat) untuk mengayomi masyarakat ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki pemberdayaan pada Bidang KAMTIBMAS (Keamanan dan Ketertiban Masyarakat) untuk mengayomi masyarakat ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/pemberdayaan_kamtibmas">More details &raquo;</a>
@@ -568,7 +592,8 @@
 <img src="images/layanan/ekonomi.png" class="card-img-top" alt="bidang ekonomi">
 <div class="card-body">
   <h5 class="card-title">Bidang Ekonomi</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki pemberdayaan pada Bidang Ekonomi untuk pelayanan masyarakat sebagai bentuk roda ekonomi daerah sekitar ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki pemberdayaan pada Bidang Ekonomi untuk pelayanan masyarakat sebagai bentuk roda ekonomi daerah sekitar ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/pemberdayaan_ekonomi">More details &raquo;</a>
@@ -581,7 +606,8 @@
 <img src="images/layanan/pemberdayaan perempuan.png" class="card-img-top" alt="pemberdayaan perempuan">
 <div class="card-body">
   <h5 class="card-title">Pemberdayaan Perempuan</h5>
-  <p class="card-text">Kelurahan Tanjung Mas memiliki pemberdayaan Perempuan untuk pelayanan dan perlindungan masyarakat terutama (perempuan) di lingkungan kelurahan ..</p>
+  <p class="card-text">Kelurahan Ngaliyan
+	 memiliki pemberdayaan Perempuan untuk pelayanan dan perlindungan masyarakat terutama (perempuan) di lingkungan kelurahan ..</p>
 </div>
 <div class="card-footer">
   <small class="text-body-secondary" style="padding-right: 12%">Last updated 3 mins ago</small><a class="btn btn-secondary" href="/pemberdayaan_perempuan">More details &raquo;</a>
@@ -603,7 +629,8 @@
 								<img src="images/beranda/quality-control.png" alt="" />
 								<h4>LAYANAN</h4>
 							</div>
-							<p class="text-black-50 headline-paragraph">Dengan adanya berbagai <b>Layanan</b> kemasyarakatan yang tersedia diharapkan <i>Kelurahan Tanjung Mas</i> menjadi Kelurahan dengan prospek pemerintahan yang maju.</p>
+							<p class="text-black-50 headline-paragraph">Dengan adanya berbagai <b>Layanan</b> kemasyarakatan yang tersedia diharapkan <i>Kelurahan Ngaliyan
+								</i> menjadi Kelurahan dengan prospek pemerintahan yang maju.</p>
 						</div>
 					</div>
 					<div class="col-lg-4">
@@ -612,7 +639,8 @@
 								<img src="images/beranda/design-tool.png" alt="" />
 								<h4>KELEMBAGAAN</h4>
 							</div>
-							<p class="text-black-50 headline-paragraph"><b>Kelembagaan</b> <i> Tanjung Mas</i>, harapannya amanah dalam tugas di berbagai bidang untuk mewujudkan pemerintahan yang adil dan beradab.</p>
+							<p class="text-black-50 headline-paragraph"><b>Kelembagaan</b> <i> Ngaliyan
+								</i>, harapannya amanah dalam tugas di berbagai bidang untuk mewujudkan pemerintahan yang adil dan beradab.</p>
 						</div>
 					</div>
 					<div class="col-lg-4">
@@ -621,7 +649,8 @@
 								<img src="images/beranda/sewing-machine.png" alt="" />
 								<h4>PEMBERDAYAAN</h4>
 							</div>
-							<p class="text-black-50 headline-paragraph"><i>Kelurahan Tanjung Mas</i> diharapkan membantu masyarakat mencapai tujuan menjadi kelurahan sejahtera dengan <b>Pemberdayaan</b> yang baik dari pemerintah.</p>
+							<p class="text-black-50 headline-paragraph"><i>Kelurahan Ngaliyan
+								</i> diharapkan membantu masyarakat mencapai tujuan menjadi kelurahan sejahtera dengan <b>Pemberdayaan</b> yang baik dari pemerintah.</p>
 						</div>
 					</div>
 				</div>

@@ -11,7 +11,7 @@
         <link rel="icon" type="image/x-icon" href="/images/logo/default-icon.png"> <!-- Ganti dengan ikon default jika logo tidak ada -->
     @endif
 
-    <title>Contact | Kel.Tanjung Mas</title>
+    <title>Contact | Kel.Ngaliyan</title>
     <link rel="stylesheet" href="/bootstrap/css/bootstrap.css" />
     <link rel="stylesheet" href="/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="/css/custom.css" />

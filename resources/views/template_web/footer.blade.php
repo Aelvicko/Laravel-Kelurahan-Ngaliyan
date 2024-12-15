@@ -440,7 +440,7 @@ color: #FFFFFF;
 
                 <ul class="social-network social-circle">
                     <!--                      <li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>-->
-                    <li><a target="_blank" href="https://www.facebook.com/pages/Kelurahan%20Tanjung%20Emas%20Semarang%20Utara/131972440313750/" class="icoFacebook" title="Facebook"><i class="fa fa-facebook sc"></i></a></li>
+                    <li><a target="_blank" class="icoFacebook" title="Facebook"><i class="fa fa-facebook sc"></i></a></li>
                     <li><a target="_blank" class="icoTwitter" title="Twitter"><i class="fa fa-twitter sc"></i></a></li>
                     <li><a target="_blank" href="https://plus.google.com/101582294656647784536" class="icoGoogle" title="Google +"><i class="fa fa-google-plus sc"></i></a></li>
 

@@ -43,7 +43,7 @@
         <div class="col-lg-7 text-center" style="margin-right: 0px;">
             <div style="display: flex; align-items: flex-start;">
                 <h1 class="headline-slogan" style="margin-right:-250px; justyfy-content:center; margin-left:200px; color:black">PROFIL KELURAHAN</h1>    <!-- target -->
-               <!-- Tabel Lokasi Kel. Tanjung Mas -->
+               <!-- Tabel Lokasi Kel. Ngaliyan -->
                 <table border="1" cellpadding="10" cellspacing="0" style="margin-right: 10px; margin-top:170px; margin-left:-400px;">
                      <thead>
                         <tr>
@@ -90,7 +90,7 @@
                         </tr>
                     </tbody>
                 </table>
-                    <!-- Gambar Peta Infrastruktur Kel. Tanjung Mas-->
+                    <!-- Gambar Peta Infrastruktur Kel. Ngaliyan-->
                     <img src="images/about/peta-ngaliyan.png" alt="Gambar Lokasi" style="width: 700px; height: auto; margin-top: 150px;">
                 </div>
 
