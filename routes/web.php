@@ -46,6 +46,7 @@ Route::group(['middleware' => ['role:admin']], function () {
 // Guest routes (DASHBOARD BERANDA)
 Route::get('/', [BerandaController::class, 'index'])->name('beranda');
 
+
 // Guest routes (ABOUT)
 Route::get('/about', function () {
     return view('page_web.about.about');
@@ -202,9 +203,5 @@ Route::get('/berita_trantib', function () {
 Route::get('/berita_sekretariat', function () {
     return view('page_web.berita_sekretariat.sekretariat');
 })->name('berita_sekretariat');
-
-
-
-
 
 

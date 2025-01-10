@@ -183,6 +183,17 @@ a.read-more:hover {
     text-decoration: underline !important;
 }
 
+/* Pastikan gambar berbentuk persegi */
+.card-img-top {
+    width: 100%;
+    /* Sesuaikan dengan lebar kartu */
+    height: 300px;
+    /* Tinggi gambar */
+    /*object-fit: cover;
+    /* Memotong gambar agar sesuai */
+}
+
+
 /* Media Query untuk layar besar */
 @media (min-width: 992px) {
 

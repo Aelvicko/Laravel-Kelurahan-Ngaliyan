@@ -35,8 +35,31 @@
 		</div>
 		<!------------------- END CAROUSEL ------------------------>
 
-
 		<hr class="invisible" id="r-more" />
+
+		<!------------------- Berita  ------------------------>
+		<div class="container my-5">
+			<h1 class="text-center mb-4">Daftar Artikel</h1>
+			<div class="row row-cols-1 row-cols-md-3 g-4">
+				@foreach ($articles as $article)
+					<div class="col">
+						<div class="card h-100">
+							<!-- Gambar -->
+							<img src="{{ asset($article->image) }}" class="card-img-top" alt="{{ $article->title }}">
+							
+							<!-- Konten Artikel -->
+							<div class="card-body">
+								<h5 class="card-title">{{ $article->title }}</h5>
+								<p class="card-text">{{ Str::limit($article->content, 150) }}</p>
+							</div>
+						</div>
+					</div>
+				@endforeach
+			</div>
+		</div>
+		<!------------------- End Berita  ------------------------>
+
+
 
 		<!------------------- BERANDA THIRD SECTION  ------------------------>
 		<div class="container mb-5">
