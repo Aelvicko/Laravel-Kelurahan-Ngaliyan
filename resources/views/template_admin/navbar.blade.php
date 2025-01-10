@@ -56,7 +56,7 @@
             </g>
           </svg>
         </span>
-        <span class="app-brand-text demo menu-text fw-bolder ms-2">Numatik</span>
+        <span class="app-brand-text demo menu-text fw-bolder ms-2">Ngaliyan</span>
       </a>
 
       <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto d-block d-xl-none">
@@ -80,7 +80,8 @@
           <div data-i18n="Analytics">Articles</div>
         </a>
       </li>
-      <li class="menu-item {{ Request::is('ulangtahun*') ? 'active' : '' }}">
+<!--
+     <li class="menu-item {{ Request::is('ulangtahun*') ? 'active' : '' }}">
         <a href="/ulangtahun" class="menu-link">
           <i class="menu-icon tf-icons bx bx-ticket"></i>
           <div data-i18n="Analytics">Ulang Tahun</div>
@@ -92,5 +93,7 @@
           <div data-i18n="Analytics">Konser</div>
         </a>
       </li>
+-->
+
     </ul>
   </aside>
