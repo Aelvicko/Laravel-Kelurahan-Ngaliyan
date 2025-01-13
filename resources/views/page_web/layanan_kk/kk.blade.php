@@ -45,7 +45,7 @@
 			<!------------------- ABOUT FIVE SECTION  ------------------------>
 		
 			<div class="container mt-5">
-				<div class="row d-flex justify-content-between align-items-center">
+				<div class="row d-flex justify-content-between align-items-top">
 					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 						<div class="row">
 							{{-- <h2 class="title-section">MISI</h2> --}}

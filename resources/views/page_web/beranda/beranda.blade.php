@@ -63,7 +63,7 @@
 
 		<!------------------- BERANDA THIRD SECTION  ------------------------>
 		<div class="container mb-5">
-			<div class="row d-flex justify-content-between align-items-center">
+			<div class="row d-flex justify-content-between align-items-top">
 				<div class="col-lg-6">
 					<h2 class="title-section mx-3">Sambutan Lurah Ngaliyan</h2>
 					<p class="headline-paragraph text-black-50 mx-3" style="text-align: justify">
@@ -88,7 +88,7 @@
 					<div class="col-lg-6">
 						<img src="images/beranda/image-pelanggan.png" alt="image profile marwah" class="img-fluid" />
 					</div>
-					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
+					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-3">
 						<div class="row">
 							<h2 style="color:white; font-size: 2.8rem; ">Layanan Masyarakat</h2>
 							<p class="headline-paragraph" style="color: white; font-size: 1rem"><b>Kelurahan Ngaliyan memberikan layanan kemasyarakatan diantaranya adalah Pembuatan KTP, Pembuatan KK, Pengantar Syarat Nikah, Permohonan Akta Kelahiran, Pengaduan Masyarakat, dll.</b></p>

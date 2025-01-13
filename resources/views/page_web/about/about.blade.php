@@ -140,15 +140,15 @@
 
 		<!------------------- CONTENT ABOUT THIRD SECTION  ------------------------>
 		<div class="container mb-5">
-			<div class="row d-flex justify-content-between align-items-center">
-				<div class="col-lg-6">
-					<h2 class="title-section mx-3">Struktur<br />Pemerintahan</h2>
-					<p class="headline-paragraph text-black-50 mx-3">
-						Lurah Ngaliyan: <b>Nur Kholis, S.Kom, MM</b>, Sekretaris Lurah: Suswati, SH, Kasi Perekonomian & Kessos: Fariadi Ariani, SH, Kasi Pembangunan: Fitri Ningtyas Dwiastuti, A.Md, Kasi Pemerintahan dan Trantibum: Nur Rahman Alchusaini, A.Md, Pengelola Data Belanja dan Laporan Keuangan: Ekananda Novita Iryanto, A.Md, Pengelola Teknologi Informasi: Muhammad Iqbal Alamsyah, S.Kom, Pengadministrasi Umum: Sri Mulyani Handayani, Pramu Kebersihan: Hendriyanto
-					</p>
-				</div>
+			<div class="row d-flex justify-content-between align-items-top">
 				<div class="col-lg-6 mt-4 mt-lg-0">
 					<img src="images/about/struktur-pemerintahan.png" alt="image produksi" style="border-radius: 15px;" class="img-fluid" />
+				</div>
+                <div class="col-lg-6">
+					<h2 class="title-section mx-3">Struktur<br />Pemerintahan</h2>
+					<p class="headline-paragraph text-black-50 mx-3"  style="text-align: justify">
+						Lurah Ngaliyan: <b>Nur Kholis, S.Kom, MM</b>, Sekretaris Lurah: Suswati, SH, Kasi Perekonomian & Kessos: Fariadi Ariani, SH, Kasi Pembangunan: Fitri Ningtyas Dwiastuti, A.Md, Kasi Pemerintahan dan Trantibum: Nur Rahman Alchusaini, A.Md, Pengelola Data Belanja dan Laporan Keuangan: Ekananda Novita Iryanto, A.Md, Pengelola Teknologi Informasi: Muhammad Iqbal Alamsyah, S.Kom, Pengadministrasi Umum: Sri Mulyani Handayani, Pramu Kebersihan: Hendriyanto
+					</p>
 				</div>
 			</div>
 		</div>
@@ -175,7 +175,7 @@
 			<!------------------- ABOUT FIVE SECTION  ------------------------>
 		
 			<div class="container mt-5">
-				<div class="row d-flex justify-content-between align-items-center">
+				<div class="row d-flex justify-content-between align-items-top">
 					<div class="col-lg-6 mt-4 mt-lg-0 ps-4 mb-5">
 						<div class="row">
 							<h2 style="color:white; font-size: 2.8rem;">MISI</h2>

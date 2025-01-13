@@ -27,13 +27,11 @@
       content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"
     />
 
-    <title>Login Numatik</title>
-
+    <title>Login Admin</title>
+    <link rel="icon" type="image/png" href="/images/logo/logosemarang.png">
     <meta name="description" content="" />
 
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="{{asset('env')}}/logoo.png" />
-
+  
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -74,20 +72,9 @@
           <div class="card">
             <div class="card-body">
           <!-- Logo -->
-          <div class="app-brand justify-content-center">
-            <a href="/" class="app-brand-link gap-2">
-                <span class="app-brand-logo demo">
-                    <img src="{{asset('env')}}/logoo.png" alt="Numatik Logo" style="height: 60px;">
-                </span>
-                <span class="app-brand-text demo text-body fw-bolder">Numatik</span>
-            </a>
-          </div>
+          
           <!-- /Logo -->
-          <h4 class="mb-2">Selamat datang di Numatik</h4>
-          <p class="mb-4">Bergabung sekarang untuk mengakses semua layanan Numatik</p>
-              <h4 class="mb-2">Selamat datang di Numatik</h4>
-              <p class="mb-4">Bergabung sekarang untuk mengakses semua layanan Numatik</p>
-
+          <h2 class="mb-2 text-center" >Login</h2>
               <form id="formAuthentication" class="mb-3"action="{{ route('login') }}" method="POST">
                 @csrf
 
@@ -130,9 +117,8 @@
               </form>
 
               <p class="text-center">
-                <span>New on our platform?</span>
                 <a href="/register">
-                  <span>Create an account</span>
+                  <span>Create an account?</span>
                 </a>
               </p>
             </div>
