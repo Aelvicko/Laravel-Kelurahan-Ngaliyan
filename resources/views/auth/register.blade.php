@@ -30,16 +30,10 @@
             <div class="authentication-inner">
                 <div class="card">
                     <div class="card-body">
-                        <div class="app-brand justify-content-center">
-                            <a href="/" class="app-brand-link gap-2">
-                                <span class="app-brand-logo demo">
-                                    <img src="{{asset('env')}}/logoo.png" alt="Numatik Logo" style="height: 60px;">
-                                </span>
-                                <span class="app-brand-text demo text-body fw-bolder">Numatik</span>
-                            </a>
+                        <div class="app-brand justify-content-center mb-1">
+                            <img src="/images/logo/logosemarang.png" alt="Logo Semarang" style="width: 100px; height: auto;">
                         </div>
-                        <h4 class="mb-2">Bergabung dengan Numatik</h4>
-                        <p class="mb-4 ">Daftar sekarang untuk mengakses semua layanan kami</p>
+
 
                         <form id="formAuthentication" class="mb-3" action="{{ route('register.post') }}"
                             method="POST">

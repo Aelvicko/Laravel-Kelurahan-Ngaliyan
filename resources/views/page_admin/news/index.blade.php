@@ -2,11 +2,11 @@
 
 @section('content')
     <div class="container-xxl flex-grow-1 container-p-y">
-        <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">Tables /</span> Articles</h4>
+        <h4 class="fw-bold py-3 mb-1"><span class="text-muted fw-light">Tables /</span> Articles</h4>
 
         <div class="card">
             <div class="card-body">
-                <a href="{{ route('articles.create') }}" class="btn btn-primary mb-3">Create Article</a>
+                <a href="{{ route('articles.create') }}" class="btn btn-primary mb-1">Create Article</a>
                 <div class="table-responsive text-nowrap">
                     <table class="table">
                         <thead>
@@ -51,7 +51,7 @@
             </div>
         </div>
 
-        <h4 class="fw-bold py-3 mb-4"><span class="text-muted fw-light">Tables /</span> Categories</h4>
+        <h4 class="fw-bold py-3 mt-5 mb-1"><span class="text-muted fw-light">Tables /</span> Categories</h4>
 
         <div class="card">
             <div class="card-body">
