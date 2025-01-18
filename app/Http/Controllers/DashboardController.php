@@ -19,4 +19,5 @@ class DashboardController extends Controller
         $user->delete();
         return redirect()->route('dashboard')->with('success', 'User berhasil dihapus.');
     }
+    
 }
