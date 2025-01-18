@@ -7,22 +7,22 @@
         <div class="card">
             <div class="card-body">
                 <a href="{{ route('articles.create') }}" class="btn btn-primary mb-1">Create Article</a>
-                <div class="table-responsive text-nowrap">
-                    <table class="table">
+                <div class="table-responsive text-wrap">
+                    <table class="table" style="table-layout: fixed; width: 100%;">
                         <thead>
                             <tr>
-                                <th>Title</th>
-                                <th>Content</th>
-                                <th>Category</th>
-                                <th>Image</th>
-                                <th>Actions</th>
+                                <th style="width: 15%;">Title</th>
+                                <th style="width: 45%;">Content</th>
+                                <th style="width: 10%;">Category</th>
+                                <th style="width: 15%;">Image</th>
+                                <th style="width: 15%;">Actions</th>
                             </tr>
                         </thead>
                         <tbody>
                             @foreach ($articles as $article)
                                 <tr>
                                     <td>{{ $article->title }}</td>
-                                    <td>{{ $article->content }}</td>
+                                    <td style="text-align: justify;">{{ $article->content }}</td>
                                     <td>
                                         @if ($article->category)
                                             <span class="badge bg-primary">{{ $article->category->name }}</span>
