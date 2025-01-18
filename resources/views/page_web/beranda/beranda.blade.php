@@ -38,23 +38,30 @@
 		<hr class="invisible" id="r-more" />
 
 		<!------------------- Berita  ------------------------>
-		<div class="container my-5">
-			<h1 class="text-center mb-4">Daftar Artikel</h1>
+		<div class="container my-5 text-white" style="background-color: red;">
+			<h1 class="title-section mx-3 text-center text-white mb-4">Agenda</h1>
 			<div class="row row-cols-1 row-cols-md-3 g-4">
 				@foreach ($articles as $article)
-					<div class="col">
-						<div class="card h-100">
-							<!-- Gambar -->
-							<img src="{{ asset($article->image) }}" class="card-img-top" alt="{{ $article->title }}">
-							
-							<!-- Konten Artikel -->
-							<div class="card-body">
-								<h5 class="card-title">{{ $article->title }}</h5>
-								<p class="card-text">{{ Str::limit($article->content, 150) }}</p>
-							</div>
+				<div class="col mb-4">
+					<div class="card h-100">  
+						<!-- Menambahkan margin bawah pada card -->
+						<!-- Gambar -->
+						<img src="{{ asset($article->image) }}" class="card-img-top" alt="{{ $article->title }}">
+						
+						<!-- Konten Artikel -->
+						<div class="card-body">
+							<h5 class="card-title">{{ $article->title }}</h5>
+							<p class="card-text">{{ Str::limit($article->content, 455) }}</p>
+							<!-- Menampilkan Kategori -->
+							@if($article->category)
+								<p class="card-category" style="font-size: 20px">Kategori: <b>{{ $article->category->name }}</b></p>
+							@else
+								<p class="card-category">Kategori: Tidak ada kategori</p>
+							@endif
 						</div>
 					</div>
-				@endforeach
+				</div>
+			@endforeach
 			</div>
 		</div>
 		<!------------------- End Berita  ------------------------>
