@@ -115,7 +115,7 @@
                   <button class="btn btn-primary d-grid w-100" type="submit">Sign in</button>
                 </div>
               </form>
- <!-- 
+
               <p class="text-center">
                 <a href="/register">
                   <span>Create an account?</span>
@@ -123,7 +123,7 @@
               </p>
             </div>
           </div>
-/Register -->
+ <!-- /Register -->
         </div>
       </div>
     </div>

@@ -12,7 +12,7 @@ class ArticleController extends Controller
     {
         $articles = Article::with('category')->get();
         $categories = Category::all();
-        return view('page_admin.news.index', compact('articles', 'categories'));
+        return view('page_admin.news.index', compact('articles', 'categories',));
     }
 
     public function create()
