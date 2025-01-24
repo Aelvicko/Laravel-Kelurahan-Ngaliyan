@@ -8,7 +8,9 @@ use App\Http\Controllers\ArticleController;
 use App\Http\Controllers\CategoryController;
 use App\Http\Controllers\BerandaController;
 use App\Http\Controllers\BeritaController;
+use App\Http\Controllers\KontakController;
 use App\Http\Controllers\UserController;
+
 
 /*
 |--------------------------------------------------------------------------
@@ -69,6 +71,11 @@ Route::get('/berita', function () {
 Route::get('/kontak', function () {
     return view('page_web.kontak.kontak');
 })->name('kontak');
+
+// Guest routes (KONTAK - MESSAGES)
+Route::post('kontak', [KontakController::class, 'store'])->name('kontak.store');
+
+
 
 // Guest routes (PROGRAM LAYANAN-kk)
 Route::get('/layanan_kk', function () {
