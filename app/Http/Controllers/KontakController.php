@@ -24,6 +24,6 @@ class KontakController extends Controller
         ]);
 
         // Redirect ke halaman sebelumnya dengan pesan sukses
-        return redirect()->back()->with(key: 'success', value: 'Pesan berhasil dikirim!');
+        return redirect('kontak')->with('success', 'Pesan berhasil dikirim!');
     }
 }

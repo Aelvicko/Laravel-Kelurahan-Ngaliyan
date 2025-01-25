@@ -9,7 +9,7 @@ class Contact extends Model
 {
     use HasFactory;
 
-    /**
+     /**
      * Nama tabel yang terkait dengan model ini.
      * Secara default, Laravel akan menggunakan nama tabel plural dari nama model.
      */
@@ -23,5 +23,4 @@ class Contact extends Model
         'nama',
         'pesan',
     ];
-
 }

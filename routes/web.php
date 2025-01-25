@@ -213,5 +213,3 @@ Route::get('/berita_trantib', function () {
 Route::get('/berita_sekretariat', function () {
     return view('page_web.berita_sekretariat.sekretariat');
 })->name('berita_sekretariat');
-
-
