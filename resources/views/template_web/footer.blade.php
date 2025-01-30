@@ -415,12 +415,12 @@
     <!-- DISINI HARUSNYA ADA FOOTER karangtaruna, kamtibnas,pbb dan lain lain tpi sudah dihapus vicko-->
 
 
-    <div style="background-color: #2F2F2F; color:#fff;padding-top:4px;padding-bottom:5px;">
+    <div style="background-color: #000000; color:#fff;padding-top:4px;padding-bottom:5px;">
         <div class="container-fluid">
 
             <div class="col-md-12">
 
-                <div class="col-md-12 d-flex align-items-start">
+                <div class="col-md-12 d-flex align-items-center">
                     <!-- Logo -->
                     <div class="col-md-2 text-center">
                         <img src="images/logo/logosemarang.png"

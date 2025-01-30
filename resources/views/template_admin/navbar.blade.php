@@ -69,13 +69,15 @@
         <div data-i18n="Analytics">Articles</div>
       </a>
     </li>
+
+    <li class="menu-item {{ Request::is('messages*') ? 'active' : '' }}">
+      <a href="/messages" class="menu-link">
+        <i class="menu-icon tf-icons bx bx-chat"></i>
+        <div data-i18n="Analytics">Messages</div>
+      </a>
+    </li>
+
     <!--
-     <li class="menu-item {{ Request::is('ulangtahun*') ? 'active' : '' }}">
-        <a href="/ulangtahun" class="menu-link">
-          <i class="menu-icon tf-icons bx bx-ticket"></i>
-          <div data-i18n="Analytics">Ulang Tahun</div>
-        </a>
-      </li>
       <li class="menu-item {{ Request::is('konser*') ? 'active' : '' }}">
         <a href="/konser" class="menu-link">
           <i class="menu-icon tf-icons bx bx-ticket"></i>

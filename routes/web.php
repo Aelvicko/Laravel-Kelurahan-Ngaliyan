@@ -10,7 +10,7 @@ use App\Http\Controllers\BerandaController;
 use App\Http\Controllers\BeritaController;
 use App\Http\Controllers\KontakController;
 use App\Http\Controllers\UserController;
-
+use App\Http\Controllers\MessageController;
 
 /*
 |--------------------------------------------------------------------------
@@ -42,11 +42,12 @@ Route::group(['middleware' => ['role:admin']], function () {
 
 
     Route::resource('articles', ArticleController::class);
-    Route::resource('categories', CategoryController::class);
 
+    Route::resource('categories', CategoryController::class);
     Route::delete('/categories/{category}', [CategoryController::class, 'destroy'])->name('categories.destroy');
 });
-// ADMIN routes
+// ADMIN - MESSAGES routes
+Route::get('/messages', [MessageController::class, 'index'])->name('contacts.index');
 
 // Guest routes (DASHBOARD BERANDA)
 Route::get('/', [BerandaController::class, 'index'])->name('beranda');
