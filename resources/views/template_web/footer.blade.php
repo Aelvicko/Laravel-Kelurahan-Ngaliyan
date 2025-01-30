@@ -415,7 +415,7 @@
     <!-- DISINI HARUSNYA ADA FOOTER karangtaruna, kamtibnas,pbb dan lain lain tpi sudah dihapus vicko-->
 
 
-    <div style="background-color: #000000; color:#fff;padding-top:4px;padding-bottom:5px;">
+    <div style="background-color: #000000; color:#fff;padding-top:4px;padding-bottom:5px; height: 120px;">
         <div class="container-fluid">
 
             <div class="col-md-12">
@@ -442,23 +442,16 @@
 
                 <div class="col-md-12"
                     style="text-align: center; padding-left: 1200px; margin-top: -100px; margin-bottom:-10px">
-                    <h4 style="color: #fff; font-size:23px; margin-bottom:2px ">Contact Us</h4>
+                    <h4 style="color: #fff; font-size:23px; margin-bottom:2px "></h4>
 
 
                     <ul class="social-network social-circle">
                         <!--<li><a href="#" class="icoRss" title="Rss"><i class="fa fa-rss"></i></a></li>-->
-                        <li><a target="_blank" class="icoFacebook" title="Facebook"><i
-                                    class="fa fa-facebook sc"></i></a></li>
-                        <li><a target="_blank" class="icoTwitter" title="Twitter"><i class="fa fa-twitter sc"></i></a>
-                        </li>
-                        <li><a target="_blank" href="https://plus.google.com/101582294656647784536" class="icoGoogle"
-                                title="Google +"><i class="fa fa-google-plus sc"></i></a></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
 
                     </ul>
-                    <div>
-                        <a href="#" title="Ganti ke versi desktop/mobile">Switch to Navbar</a>
-
-                    </div>
                 </div>
             </div>
 
@@ -478,8 +471,8 @@
 
             <center>
                 <p>
-                    KELURAHAN NGALIYAN KOTA SEMARANG || Copyright &copy; <a href="http://bootstrapmaster.com"
-                        alt="Bootstrap Themes"> 2024</a> DEVELOPER All right Reserved
+                    KELURAHAN NGALIYAN KOTA SEMARANG || Copyright &copy;2024
+                    DEVELOPER All right Reserved
                 </p>
             </center>
 

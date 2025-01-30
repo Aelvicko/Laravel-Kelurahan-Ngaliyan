@@ -4,7 +4,7 @@
 @section('content')
 @if (session('success'))
     <div id="alert-box" class="alert alert-success alert-dismissible fade show"
-        style="position: fixed; top: 100px; left: 0px; z-index: 1050; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding-left: 50px;"
+        style="position: fixed; top: 104px; left: 0px; z-index: 1050; box-shadow: 0 4px 6px rgba(0,0,0,0.1); padding-left: 50px;"
         role="alert">
         {{ session('success') }}
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"
