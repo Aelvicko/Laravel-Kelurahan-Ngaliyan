@@ -49,6 +49,7 @@ Route::group(['middleware' => ['role:admin']], function () {
 // ADMIN - MESSAGES routes
 Route::get('/messages', [MessageController::class, 'index'])->name('contacts.index');
 Route::delete('/messages/{contact}', [MessageController::class, 'destroy'])->name('messages.destroy');
+Route::get('/messages/search', [MessageController::class, 'search'])->name('messages.search');
 
 // Guest routes (DASHBOARD BERANDA)
 Route::get('/', [BerandaController::class, 'index'])->name('beranda');

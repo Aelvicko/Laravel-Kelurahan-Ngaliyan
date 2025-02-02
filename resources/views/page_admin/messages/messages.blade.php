@@ -1,9 +1,20 @@
 @extends('template_admin.layout')
 
 @section('content')
+
 <div class="container-xxl flex-grow-1 container-p-y">
     <div class="table-container">
-        <h2 class="text-center">Daftar Pesan</h2>
+        <h4 class="fw-bold py-3 mb-1"><span class="text-muted fw-light"></span> Daftar Pesan</h4>
+        <div class="card-tools">
+            <form action="{{ route('messages.search') }}" method="GET" class="form-inline">
+                <input type="search" name="search" id="search" class="form-control" placeholder="Isikan Nama">
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-default">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+            </form>
+        </div>
         <table class="table table-hover">
             <thead>
                 <tr>

@@ -22,4 +22,15 @@ class MessageController extends Controller
 
     return redirect()->route('contacts.index')->with('success', 'Data berhasil dihapus');
 }
+
+public function search(Request $request)
+{
+    $search = $request->input('search');
+    $contacts = Contact::where('nama', 'like', "%$search%")->get();
+    $contacts = Contact::where('email', 'like', "%$search%")->get();
+    $contacts = Contact::where('pesan', 'like', "%$search%")->get();
+    return view('page_admin.messages.messages', compact('contacts'));
+}
+
+
 }

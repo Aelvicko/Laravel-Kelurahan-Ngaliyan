@@ -92,17 +92,22 @@
 
             <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
               <!-- Search -->
-              <div class="navbar-nav align-items-center">
+              <div class="navbar-nav align-items-center position-relative">
                 <div class="nav-item d-flex align-items-center">
-                  <i class="bx bx-search fs-4 lh-0"></i>
-                  <input
-                    type="text"
-                    class="form-control border-0 shadow-none"
-                    placeholder="Search..."
-                    aria-label="Search..."
-                  />
+                    <i class="bx bx-search fs-4 lh-0"></i>
+                    <input
+                        type="text"
+                        id="searchInput"
+                        class="form-control border-0 shadow-none"
+                        placeholder="Search..."
+                        aria-label="Search..."
+                    />
                 </div>
-              </div>
+            
+                <!-- Container untuk hasil pencarian -->
+                <ul id="searchResults" class="list-group position-absolute d-none bg-white border rounded" 
+                    style="top: 40px; left: 0; width: 100%; max-height: 200px; overflow-y: auto; z-index: 1000;"></ul>
+            </div>
               <!-- /Search -->
 
               <ul class="navbar-nav flex-row align-items-center ms-auto">
