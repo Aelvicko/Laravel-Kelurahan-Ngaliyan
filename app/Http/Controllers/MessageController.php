@@ -26,11 +26,14 @@ class MessageController extends Controller
 public function search(Request $request)
 {
     $search = $request->input('search');
-    $contacts = Contact::where('nama', 'like', "%$search%")->get();
-    $contacts = Contact::where('email', 'like', "%$search%")->get();
-    $contacts = Contact::where('pesan', 'like', "%$search%")->get();
+
+    $contacts = Contact::where('nama', 'LIKE', "%{$search}%")
+                        ->orWhere('email', 'LIKE', "%{$search}%")
+                        ->orWhere('pesan', 'LIKE', "%{$search}%")
+                        ->orWhere('created_at', 'LIKE', "%{$search}%")
+                        ->get();
+
     return view('page_admin.messages.messages', compact('contacts'));
 }
-
 
 }
