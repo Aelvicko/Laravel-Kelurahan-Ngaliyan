@@ -19,5 +19,20 @@ class DashboardController extends Controller
         $user->delete();
         return redirect()->route('dashboard')->with('success', 'User berhasil dihapus.');
     }
+
+    public function search(Request $request)
+{
+    $search = $request->input('search');
+
+    $users = User::where('nama', 'LIKE', "%{$search}%")
+                        ->orWhere('nama', 'LIKE', "%{$search}%")
+                        ->orWhere('email', 'LIKE', "%{$search}%")
+                        ->orWhere('username', 'LIKE', "%{$search}%")
+                        ->orWhere('role', 'LIKE', "%{$search}%")
+                        ->get();
+
+    return view('page_admin.dashboard.dashboard', compact('users'));
+}
+
     
 }

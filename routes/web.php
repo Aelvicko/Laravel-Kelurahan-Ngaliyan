@@ -30,26 +30,30 @@ Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [LoginController::class, 'login']);
 Route::get('/logout', [LoginController::class, 'logout'])->name('logout');
 
-Route::get('register', [RegisterController::class, 'showRegistrationForm'])->name('register');
-Route::post('register', [RegisterController::class, 'register'])->name('register.post');
 //auth
 
 // ADMIN routes
 Route::group(['middleware' => ['role:admin']], function () {
+    Route::get('register', [RegisterController::class, 'showRegistrationForm'])->name('register');
+    Route::post('register', [RegisterController::class, 'register'])->name('register.post');    
+
     Route::get('/dashboard', [DashboardController::class, 'index'])->name('dashboard');
     Route::delete('/dashboard/{user}', [DashboardController::class, 'destroy'])->name('dashboard.destroy');
     Route::put('/dashboard/user/{id}', [UserController::class, 'update'])->name('dashboard.update');
+    Route::get('/dashboard/search', [DashboardController::class, 'search'])->name('dashboard.search');
 
 
     Route::resource('articles', ArticleController::class);
 
     Route::resource('categories', CategoryController::class);
     Route::delete('/categories/{category}', [CategoryController::class, 'destroy'])->name('categories.destroy');
+
+    // ADMIN - MESSAGES routes
+    Route::get('/messages', [MessageController::class, 'index'])->name('contacts.index');
+    Route::delete('/messages/{contact}', [MessageController::class, 'destroy'])->name('messages.destroy');
+    Route::get('/messages/search', [MessageController::class, 'search'])->name('messages.search');
 });
-// ADMIN - MESSAGES routes
-Route::get('/messages', [MessageController::class, 'index'])->name('contacts.index');
-Route::delete('/messages/{contact}', [MessageController::class, 'destroy'])->name('messages.destroy');
-Route::get('/messages/search', [MessageController::class, 'search'])->name('messages.search');
+
 
 // Guest routes (DASHBOARD BERANDA)
 Route::get('/', [BerandaController::class, 'index'])->name('beranda');
